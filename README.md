@@ -30,6 +30,12 @@ Caveats that apply to the findings:
 - Airline-level OTP, cancellation, and complaint rates are fiscal-year averages of the monthly rates, weighted by that month's passengers. The market-wide cancellation and complaint figures are plain averages of the monthly figures, because DGCA does not print a passenger base for them.
 - The growth vs cancellation correlation is unstable (it changes sign once tiny start-up years are dropped), so no claim is made about it.
 
+## PySpark extension
+
+A small, local PySpark re-computation of market shares and HHI from the processed CSVs, with tests and a
+reconciliation against the published aggregate. It runs Spark in local mode on a small dataset, so it shows
+DataFrame skills and correctness checks, not scale. See [spark/README.md](spark/README.md).
+
 ## Data sources
 
 - **DGCA Table 1.04 / 1.07** (yearly, per airline, scheduled domestic services, fiscal years April to March). Table 1.04 is the main source. Table 1.07 is used only to validate our own calculations.

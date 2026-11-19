@@ -1,0 +1,47 @@
+name: spark-tests
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "spark/**"
+      - "data/processed/yearly_airline_domestic_history.csv"
+      - "data/processed/yearly_market_aggregates.csv"
+      - "data/reference/airline_mapping.csv"
+      - ".github/workflows/spark-tests.yml"
+  pull_request:
+    paths:
+      - "spark/**"
+      - "data/processed/yearly_airline_domestic_history.csv"
+      - "data/processed/yearly_market_aggregates.csv"
+      - "data/reference/airline_mapping.csv"
+      - ".github/workflows/spark-tests.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: spark/requirements.txt
+
+      - uses: actions/setup-java@v6
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Install pinned dependencies
+        run: python -m pip install -r spark/requirements.txt
+
+      - name: Run Spark tests (local mode)
+        run: python -m pytest spark/tests -q
+        env:
+          PYSPARK_PYTHON: python

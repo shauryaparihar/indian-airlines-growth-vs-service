@@ -19,3 +19,8 @@ data/raw/monthly_traffic/*.pdf
 .idea/
 Thumbs.db
 desktop.ini
+
+# PySpark extension (local only artifacts)
+spark/output/
+.pytest_cache/
+.claude/
