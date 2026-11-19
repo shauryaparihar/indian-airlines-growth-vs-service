@@ -17,7 +17,9 @@ Amazon S3 in `ap-southeast-2` (Sydney), defined an Athena external table over it
 | 2013-14 | 1,995.6 |
 | 2024-25 | 4,260.3 |
 
-These are the figures Shaurya reported from the Athena run. They match the explicitly labelled
+![Athena results grid showing 18 fiscal-year rows with hhi and top_share](athena_result.png)
+
+The screenshot above is the Athena results grid. The two figures in the table are the FY 2013-14 and FY 2024-25 rows of it. They match the explicitly labelled
 "without family grouping" values in the [PySpark README](../spark/README.md) (1,995.6 and 4,260.3).
 
 ## Formula
@@ -41,12 +43,20 @@ Two further limits:
 
 ## Evidence status
 
-No screenshot, result export, query ID or run date was saved. The Athena execution and its results were
-**reported by Shaurya**. They were **not re-run or independently verified** by this documentation change, which
-used no AWS access. What was checked offline: the SQL's column list matches the CSV header, and a plain
-Python recalculation using the same formula on the same CSV gives 1,995.6 and 4,260.3. That shows the
-logic and the figures are consistent with the file. It does not show that an Athena run happened, and no
-automated test here executes Athena.
+A cropped screenshot of the Athena results grid is included as [`athena_result.png`](athena_result.png). It was
+captured on 2026-11-20 from a browser tab left open from the original run (as reported by Shaurya). It shows 18
+fiscal-year rows with `hhi` and `top_share`. It does **not** show the SQL text, a query ID, the execution date, the
+region or the account, and no result export was saved, so the repo cannot prove which exact query produced it or when
+it ran.
+
+The Athena execution itself was **not re-run or independently verified** by this documentation change, which used no AWS
+access. What was checked offline:
+- the SQL's column list matches the CSV header (20 columns, same order);
+- a plain Python recalculation using the same formula on the same CSV reproduces **all 18 rows** read from the
+  screenshot (both `hhi` and `top_share`, to one decimal), including 1,995.6 and 4,260.3.
+
+That shows the screenshot's numbers are consistent with this CSV and formula. It does not show which SQL ran or when,
+and no automated test here executes Athena.
 
 ## Cleanup status (reported, not verified)
 
