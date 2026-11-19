@@ -1,0 +1,1593 @@
+airline,airline_raw,airline_key,year,month,fiscal_year,pax_lakh,passengers,source_report
+air_carnival,Air Carnival,aircarnival,2016,8,2016-17,0.04,4000,2016_12.pdf
+air_carnival,Air Carnival,aircarnival,2016,9,2016-17,0.06,6000,2016_12.pdf
+air_carnival,Air Carnival,aircarnival,2016,10,2016-17,0.08,8000,2016_12.pdf
+air_carnival,Air Carnival,aircarnival,2016,11,2016-17,0.09,9000,2016_12.pdf
+air_carnival,Air Carnival,aircarnival,2016,12,2016-17,0.1,10000,2016_12.pdf
+air_carnival,Air Carnival,aircarnival,2017,1,2016-17,0.11,11000,2017_12_revised.pdf
+air_carnival,Air Carnival,aircarnival,2017,2,2016-17,0.14,14000,2017_12_revised.pdf
+air_carnival,Air Carnival,aircarnival,2017,3,2016-17,0.13,13000,2017_12_revised.pdf
+air_carnival,Air Carnival,aircarnival,2017,4,2017-18,0.01,1000,2017_12_revised.pdf
+air_costa,Air Costa,aircosta,2014,1,2013-14,0.16,16000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,2,2013-14,0.16,16000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,3,2013-14,0.2,20000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,4,2014-15,0.45,45000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,5,2014-15,0.6,60000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,6,2014-15,0.53,53000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,7,2014-15,0.58,58000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,8,2014-15,0.6,60000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,9,2014-15,0.62,62000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,10,2014-15,0.67,67000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,11,2014-15,0.6,60000,2014_12.pdf
+air_costa,Air Costa,aircosta,2014,12,2014-15,0.71,71000,2014_12.pdf
+air_costa,Air Costa,aircosta,2015,1,2014-15,0.65,65000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,2,2014-15,0.62,62000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,3,2014-15,0.62,62000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,4,2015-16,0.66,66000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,5,2015-16,0.61,61000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,6,2015-16,0.66,66000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,7,2015-16,0.68,68000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,8,2015-16,0.62,62000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,9,2015-16,0.59,59000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,10,2015-16,0.58,58000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,11,2015-16,0.46,46000,2015_12.pdf
+air_costa,Air Costa,aircosta,2015,12,2015-16,0.55,55000,2015_12.pdf
+air_costa,Air Costa,aircosta,2016,1,2015-16,0.59,59000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,2,2015-16,0.57,57000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,3,2015-16,0.54,54000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,4,2016-17,0.64,64000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,5,2016-17,0.65,65000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,6,2016-17,0.62,62000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,7,2016-17,0.65,65000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,8,2016-17,0.55,55000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,9,2016-17,0.51,51000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,10,2016-17,0.51,51000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,11,2016-17,0.52,52000,2016_12.pdf
+air_costa,Air Costa,aircosta,2016,12,2016-17,0.5,50000,2016_12.pdf
+air_costa,Air Costa,aircosta,2017,1,2016-17,0.44,44000,2017_12_revised.pdf
+air_costa,Air Costa,aircosta,2017,2,2016-17,0.4,40000,2017_12_revised.pdf
+air_deccan,Air Deccan,airdeccan,2017,12,2017-18,0.002,200,2017_12_revised.pdf
+air_deccan,Air Deccan,airdeccan,2018,1,2017-18,0.01,1000,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,2,2017-18,0.01,1000,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,3,2017-18,0.0,0,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,4,2018-19,0.0,0,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,5,2018-19,0.01,1000,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,6,2018-19,0.01,1000,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,7,2018-19,0.0,0,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,8,2018-19,0.01,1000,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,9,2018-19,0.01,1000,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,10,2018-19,0.0,0,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,11,2018-19,0.0,0,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2018,12,2018-19,0.0,0,2018_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,1,2018-19,0.0,0,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,2,2018-19,0.0,0,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,3,2018-19,0.0,0,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,4,2019-20,0.0,0,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,5,2019-20,0.0,0,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,6,2019-20,0.01,1000,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,7,2019-20,0.01,1000,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,8,2019-20,0.0,0,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,9,2019-20,0.0,0,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,10,2019-20,0.0,0,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,11,2019-20,0.0,0,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2019,12,2019-20,0.0,0,2019_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,1,2019-20,0.0,0,2020_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,2,2019-20,0.0,0,2020_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,3,2019-20,0.0,0,2020_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,5,2020-21,0.0,0,2020_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,6,2020-21,0.0,0,2020_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,7,2020-21,0.0,0,2020_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,8,2020-21,0.0,0,2020_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,9,2020-21,0.0,0,2020_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,10,2020-21,0.0,0,2020_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,11,2020-21,0.0,0,2020_12.pdf
+air_deccan,Air Deccan,airdeccan,2020,12,2020-21,0.0,0,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2019,1,2018-19,0.0,0,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,2,2018-19,0.0,0,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,3,2018-19,0.0,0,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,4,2019-20,0.0,0,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,5,2019-20,0.0,0,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,6,2019-20,0.0,0,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,7,2019-20,0.0,0,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,8,2019-20,0.0,0,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,9,2019-20,0.01,1000,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,10,2019-20,0.01,1000,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,11,2019-20,0.0,0,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2019,12,2019-20,0.01,1000,2019_12.pdf
+air_heritage,Air Heritage,airheritage,2020,1,2019-20,0.01,1000,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2020,2,2019-20,0.01,1000,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2020,3,2019-20,0.0,0,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2020,5,2020-21,0.0,0,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2020,6,2020-21,0.0,0,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2020,7,2020-21,0.0,0,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2020,8,2020-21,0.0,0,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2020,9,2020-21,0.0,0,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2020,10,2020-21,0.0,0,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2020,11,2020-21,0.0,0,2020_12.pdf
+air_heritage,Air Heritage,airheritage,2020,12,2020-21,0.0,0,2020_12.pdf
+air_india,Air India,airindia,2014,1,2013-14,10.19,1019000,2014_12.pdf
+air_india,Air India,airindia,2014,2,2013-14,9.62,962000,2014_12.pdf
+air_india,Air India,airindia,2014,3,2013-14,10.81,1081000,2014_12.pdf
+air_india,Air India,airindia,2014,4,2014-15,9.74,974000,2014_12.pdf
+air_india,Air India,airindia,2014,5,2014-15,11.22,1122000,2014_12.pdf
+air_india,Air India,airindia,2014,6,2014-15,10.55,1055000,2014_12.pdf
+air_india,Air India,airindia,2014,7,2014-15,9.4,940000,2014_12.pdf
+air_india,Air India,airindia,2014,8,2014-15,9.24,924000,2014_12.pdf
+air_india,Air India,airindia,2014,9,2014-15,9.66,966000,2014_12.pdf
+air_india,Air India,airindia,2014,10,2014-15,11.56,1156000,2014_12.pdf
+air_india,Air India,airindia,2014,11,2014-15,10.27,1027000,2014_12.pdf
+air_india,Air India,airindia,2014,12,2014-15,11.99,1199000,2014_12.pdf
+air_india,Air India,airindia,2015,1,2014-15,11.65,1165000,2015_12.pdf
+air_india,Air India,airindia,2015,2,2014-15,10.68,1068000,2015_12.pdf
+air_india,Air India,airindia,2015,3,2014-15,10.6,1060000,2015_12.pdf
+air_india,Air India,airindia,2015,4,2015-16,10.65,1065000,2015_12.pdf
+air_india,Air India,airindia,2015,5,2015-16,11.28,1128000,2015_12.pdf
+air_india,Air India,airindia,2015,6,2015-16,10.09,1009000,2015_12.pdf
+air_india,Air India,airindia,2015,7,2015-16,10.94,1094000,2015_12.pdf
+air_india,Air India,airindia,2015,8,2015-16,11.25,1125000,2015_12.pdf
+air_india,Air India,airindia,2015,9,2015-16,10.59,1059000,2015_12.pdf
+air_india,Air India,airindia,2015,10,2015-16,10.88,1088000,2015_12.pdf
+air_india,Air India,airindia,2015,11,2015-16,11.89,1189000,2015_12.pdf
+air_india,Air India,airindia,2015,12,2015-16,12.85,1285000,2015_12.pdf
+air_india,Air India,airindia,2016,1,2015-16,12.23,1223000,2016_12.pdf
+air_india,Air India,airindia,2016,2,2015-16,11.54,1154000,2016_12.pdf
+air_india,Air India,airindia,2016,3,2015-16,11.61,1161000,2016_12.pdf
+air_india,Air India,airindia,2016,4,2016-17,11.98,1198000,2016_12.pdf
+air_india,Air India,airindia,2016,5,2016-17,13.49,1349000,2016_12.pdf
+air_india,Air India,airindia,2016,6,2016-17,12.37,1237000,2016_12.pdf
+air_india,Air India,airindia,2016,7,2016-17,12.61,1261000,2016_12.pdf
+air_india,Air India,airindia,2016,8,2016-17,12.25,1225000,2016_12.pdf
+air_india,Air India,airindia,2016,9,2016-17,12.06,1206000,2016_12.pdf
+air_india,Air India,airindia,2016,10,2016-17,11.25,1125000,2016_12.pdf
+air_india,Air India,airindia,2016,11,2016-17,11.57,1157000,2016_12.pdf
+air_india,Air India,airindia,2016,12,2016-17,13.35,1335000,2016_12.pdf
+air_india,Air India,airindia,2017,1,2016-17,13.5,1350000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,2,2016-17,11.71,1171000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,3,2016-17,11.8,1180000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,4,2017-18,11.8,1180000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,5,2017-18,13.23,1323000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,6,2017-18,12.49,1249000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,7,2017-18,12.92,1292000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,8,2017-18,12.82,1282000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,9,2017-18,12.93,1293000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,10,2017-18,13.66,1366000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,11,2017-18,14.23,1423000,2017_12_revised.pdf
+air_india,Air India,airindia,2017,12,2017-18,14.72,1472000,2017_12_revised.pdf
+air_india,Air India,airindia,2018,1,2017-18,15.29,1529000,2018_12.pdf
+air_india,Air India,airindia,2018,2,2017-18,14.23,1423000,2018_12.pdf
+air_india,Air India,airindia,2018,3,2017-18,15.53,1553000,2018_12.pdf
+air_india,Air India,airindia,2018,4,2018-19,15.31,1531000,2018_12.pdf
+air_india,Air India,airindia,2018,5,2018-19,15.18,1518000,2018_12.pdf
+air_india,Air India,airindia,2018,6,2018-19,14.11,1411000,2018_12.pdf
+air_india,Air India,airindia,2018,7,2018-19,14.3,1430000,2018_12.pdf
+air_india,Air India,airindia,2018,8,2018-19,14.41,1441000,2018_12.pdf
+air_india,Air India,airindia,2018,9,2018-19,13.45,1345000,2018_12.pdf
+air_india,Air India,airindia,2018,10,2018-19,14.44,1444000,2018_12.pdf
+air_india,Air India,airindia,2018,11,2018-19,14.18,1418000,2018_12.pdf
+air_india,Air India,airindia,2018,12,2018-19,15.68,1568000,2018_12.pdf
+air_india,Air India,airindia,2019,1,2018-19,15.3,1530000,2019_12.pdf
+air_india,Air India,airindia,2019,2,2018-19,14.53,1453000,2019_12.pdf
+air_india,Air India,airindia,2019,3,2018-19,15.19,1519000,2019_12.pdf
+air_india,Air India,airindia,2019,4,2019-20,15.23,1523000,2019_12.pdf
+air_india,Air India,airindia,2019,5,2019-20,16.32,1632000,2019_12.pdf
+air_india,Air India,airindia,2019,6,2019-20,15.51,1551000,2019_12.pdf
+air_india,Air India,airindia,2019,7,2019-20,14.79,1479000,2019_12.pdf
+air_india,Air India,airindia,2019,8,2019-20,15.15,1515000,2019_12.pdf
+air_india,Air India,airindia,2019,9,2019-20,14.95,1495000,2019_12.pdf
+air_india,Air India,airindia,2019,10,2019-20,15.47,1547000,2019_12.pdf
+air_india,Air India,airindia,2019,11,2019-20,15.65,1565000,2019_12.pdf
+air_india,Air India,airindia,2019,12,2019-20,15.49,1549000,2019_12.pdf
+air_india,Air India,airindia,2020,1,2019-20,14.78,1478000,2020_12.pdf
+air_india,Air India,airindia,2020,2,2019-20,14.81,1481000,2020_12.pdf
+air_india,Air India,airindia,2020,3,2019-20,8.42,842000,2020_12.pdf
+air_india,Air India,airindia,2020,5,2020-21,0.49,49000,2020_12.pdf
+air_india,Air India,airindia,2020,6,2020-21,2.42,242000,2020_12.pdf
+air_india,Air India,airindia,2020,7,2020-21,1.91,191000,2020_12.pdf
+air_india,Air India,airindia,2020,8,2020-21,2.78,278000,2020_12.pdf
+air_india,Air India,airindia,2020,9,2020-21,3.72,372000,2020_12.pdf
+air_india,Air India,airindia,2020,10,2020-21,4.94,494000,2020_12.pdf
+air_india,Air India,airindia,2020,11,2020-21,6.56,656000,2020_12.pdf
+air_india,Air India,airindia,2020,12,2020-21,7.51,751000,2020_12.pdf
+air_india,Air India,airindia,2021,1,2020-21,7.97,797000,2021_12.pdf
+air_india,Air India,airindia,2021,2,2020-21,9.16,916000,2021_12.pdf
+air_india,Air India,airindia,2021,3,2020-21,9.17,917000,2021_12.pdf
+air_india,Air India,airindia,2021,4,2021-22,6.85,685000,2021_12.pdf
+air_india,Air India,airindia,2021,5,2021-22,4.29,429000,2021_12.pdf
+air_india,Air India,airindia,2021,6,2021-22,5.14,514000,2021_12.pdf
+air_india,Air India,airindia,2021,7,2021-22,6.7,670000,2021_12.pdf
+air_india,Air India,airindia,2021,8,2021-22,8.86,886000,2021_12.pdf
+air_india,Air India,airindia,2021,9,2021-22,8.53,853000,2021_12.pdf
+air_india,Air India,airindia,2021,10,2021-22,10.61,1061000,2021_12.pdf
+air_india,Air India,airindia,2021,11,2021-22,9.98,998000,2021_12.pdf
+air_india,Air India,airindia,2021,12,2021-22,9.89,989000,2021_12.pdf
+air_india,Air India,airindia,2022,1,2021-22,6.56,656000,2022_12.pdf
+air_india,Air India,airindia,2022,2,2021-22,8.55,855000,2022_12.pdf
+air_india,Air India,airindia,2022,3,2021-22,9.36,936000,2022_12.pdf
+air_india,Air India,airindia,2022,4,2022-23,8.26,826000,2022_12.pdf
+air_india,Air India,airindia,2022,5,2022-23,8.23,823000,2022_12.pdf
+air_india,Air India,airindia,2022,6,2022-23,7.83,783000,2022_12.pdf
+air_india,Air India,airindia,2022,7,2022-23,8.14,814000,2022_12.pdf
+air_india,Air India,airindia,2022,8,2022-23,8.61,861000,2022_12.pdf
+air_india,Air India,airindia,2022,9,2022-23,9.49,949000,2022_12.pdf
+air_india,Air India,airindia,2022,10,2022-23,10.38,1038000,2022_12.pdf
+air_india,Air India,airindia,2022,11,2022-23,10.63,1063000,2022_12.pdf
+air_india,Air India,airindia,2022,12,2022-23,11.71,1171000,2022_12.pdf
+air_india,Air India,airindia,2023,1,2022-23,11.55,1155000,2023_12.pdf
+air_india,Air India,airindia,2023,2,2022-23,10.76,1076000,2023_12.pdf
+air_india,Air India,airindia,2023,3,2022-23,11.39,1139000,2023_12.pdf
+air_india,Air India,airindia,2023,4,2023-24,11.13,1113000,2023_12.pdf
+air_india,Air India,airindia,2023,5,2023-24,12.44,1244000,2023_12.pdf
+air_india,Air India,airindia,2023,6,2023-24,12.13,1213000,2023_12.pdf
+air_india,Air India,airindia,2023,7,2023-24,11.98,1198000,2023_12.pdf
+air_india,Air India,airindia,2023,8,2023-24,12.12,1212000,2023_12.pdf
+air_india,Air India,airindia,2023,9,2023-24,11.97,1197000,2023_12.pdf
+air_india,Air India,airindia,2023,10,2023-24,13.27,1327000,2023_12.pdf
+air_india,Air India,airindia,2023,11,2023-24,13.34,1334000,2023_12.pdf
+air_india,Air India,airindia,2023,12,2023-24,15.44,1544000,2023_12.pdf
+air_india,Air India,airindia,2024,1,2023-24,15.97,1597000,2024_12.pdf
+air_india,Air India,airindia,2024,2,2023-24,16.17,1617000,2024_12.pdf
+air_india,Air India,airindia,2024,3,2023-24,17.47,1747000,2024_12.pdf
+air_india,Air India,airindia,2024,4,2024-25,18.8,1880000,2024_12.pdf
+air_india,Air India,airindia,2024,5,2024-25,18.93,1893000,2024_12.pdf
+air_india,Air India,airindia,2024,6,2024-25,19.22,1922000,2024_12.pdf
+air_india,Air India,airindia,2024,7,2024-25,18.6,1860000,2024_12.pdf
+air_india,Air India,airindia,2024,8,2024-25,19.29,1929000,2024_12.pdf
+air_india,Air India,airindia,2024,9,2024-25,19.69,1969000,2024_12.pdf
+air_india,Air India,airindia,2024,10,2024-25,26.48,2648000,2024_12.pdf
+air_india,Air India,airindia,2024,11,2024-25,34.73,3473000,2024_12.pdf
+air_india,Air India,airindia,2024,12,2024-25,39.46,3946000,2024_12.pdf
+air_india,Air India Group,airindiagroup,2025,1,2024-25,37.58,3758000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,2,2024-25,38.3,3830000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,3,2024-25,38.78,3878000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,4,2025-26,38.9,3890000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,5,2025-26,37.22,3722000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,6,2025-26,36.92,3692000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,7,2025-26,33.08,3308000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,8,2025-26,35.39,3539000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,9,2025-26,34.67,3467000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,10,2025-26,36.04,3604000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,11,2025-26,40.75,4075000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2025,12,2025-26,42.29,4229000,2025_12.pdf
+air_india,Air India Group,airindiagroup,2026,1,2025-26,40.34,4034000,2026_08.pdf
+air_india,Air India Group,airindiagroup,2026,2,2025-26,37.94,3794000,2026_08.pdf
+air_india,Air India Group,airindiagroup,2026,3,2025-26,37.73,3773000,2026_08.pdf
+air_india,Air India Group,airindiagroup,2026,4,2026-27,34.1,3410000,2026_08.pdf
+air_india,Air India Group,airindiagroup,2026,5,2026-27,39.33,3933000,2026_08.pdf
+air_india,Air India Group,airindiagroup,2026,6,2026-27,32.22,3222000,2026_08.pdf
+air_india,Air India Group,airindiagroup,2026,7,2026-27,28.75,2875000,2026_08.pdf
+air_india,Air India Group,airindiagroup,2026,8,2026-27,32.32,3232000,2026_08.pdf
+air_odisha,Air Odisha,airodisha,2018,2,2017-18,0.0,0,2018_12.pdf
+air_odisha,Air Odisha,airodisha,2018,3,2017-18,0.0,0,2018_12.pdf
+air_odisha,Air Odisha,airodisha,2018,4,2018-19,0.01,1000,2018_12.pdf
+air_odisha,Air Odisha,airodisha,2018,5,2018-19,0.01,1000,2018_12.pdf
+air_odisha,Air Odisha,airodisha,2018,6,2018-19,0.0,0,2018_12.pdf
+air_odisha,Air Odisha,airodisha,2018,7,2018-19,0.0,0,2018_12.pdf
+air_odisha,Air Odisha,airodisha,2018,8,2018-19,0.01,1000,2018_12.pdf
+air_odisha,Air Odisha,airodisha,2018,9,2018-19,0.0,0,2018_12.pdf
+air_odisha,Air Odisha,airodisha,2018,10,2018-19,0.0,0,2018_12.pdf
+air_odisha,Air Odisha,airodisha,2018,11,2018-19,0.0,0,2018_12.pdf
+air_odisha,Air Odisha,airodisha,2018,12,2018-19,0.0,0,2018_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2015,5,2015-16,0.06,6000,2015_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2015,6,2015-16,0.09,9000,2015_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2015,7,2015-16,0.11,11000,2015_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2015,8,2015-16,0.14,14000,2015_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2015,9,2015-16,0.15,15000,2015_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2015,10,2015-16,0.19,19000,2015_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2015,11,2015-16,0.22,22000,2015_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2015,12,2015-16,0.21,21000,2015_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,1,2015-16,0.24,24000,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,2,2015-16,0.19,19000,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,3,2015-16,0.14,14000,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,4,2016-17,0.2,20000,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,5,2016-17,0.21,21000,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,6,2016-17,0.21,21000,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,7,2016-17,0.14,14000,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,8,2016-17,0.0,0,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,9,2016-17,0.0,0,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,10,2016-17,0.0,0,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,11,2016-17,0.0,0,2016_12.pdf
+air_pegasus,Air Pegasus,airpegasus,2016,12,2016-17,0.0,0,2016_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,2,2020-21,0.0,0,2021_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,3,2020-21,0.0,0,2021_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,4,2021-22,0.0,0,2021_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,5,2021-22,0.0,0,2021_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,6,2021-22,0.0,0,2021_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,7,2021-22,0.0,0,2021_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,8,2021-22,0.0,0,2021_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,9,2021-22,0.0,0,2021_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,10,2021-22,0.0,0,2021_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,11,2021-22,0.0,0,2021_12.pdf
+air_taxi,Air Taxi,airtaxi,2021,12,2021-22,0.0,0,2021_12.pdf
+aix_connect,Air Asia,airasia,2014,6,2014-15,0.12,12000,2014_12.pdf
+aix_connect,Air Asia,airasia,2014,7,2014-15,0.25,25000,2014_12.pdf
+aix_connect,Air Asia,airasia,2014,8,2014-15,0.36,36000,2014_12.pdf
+aix_connect,Air Asia,airasia,2014,9,2014-15,0.54,54000,2014_12.pdf
+aix_connect,Air Asia,airasia,2014,10,2014-15,0.66,66000,2014_12.pdf
+aix_connect,Air Asia,airasia,2014,11,2014-15,0.61,61000,2014_12.pdf
+aix_connect,Air Asia,airasia,2014,12,2014-15,0.74,74000,2014_12.pdf
+aix_connect,Air Asia,airasia,2015,1,2014-15,0.81,81000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,2,2014-15,0.72,72000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,3,2014-15,0.69,69000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,4,2015-16,0.72,72000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,5,2015-16,0.94,94000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,6,2015-16,1.26,126000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,7,2015-16,1.43,143000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,8,2015-16,1.34,134000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,9,2015-16,1.25,125000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,10,2015-16,1.5,150000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,11,2015-16,1.62,162000,2015_12.pdf
+aix_connect,Air Asia,airasia,2015,12,2015-16,1.82,182000,2015_12.pdf
+aix_connect,Air Asia,airasia,2016,1,2015-16,1.75,175000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,2,2015-16,1.67,167000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,3,2015-16,1.77,177000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,4,2016-17,1.67,167000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,5,2016-17,1.9,190000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,6,2016-17,1.73,173000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,7,2016-17,1.91,191000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,8,2016-17,1.88,188000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,9,2016-17,1.88,188000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,10,2016-17,2.36,236000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,11,2016-17,2.51,251000,2016_12.pdf
+aix_connect,Air Asia,airasia,2016,12,2016-17,2.77,277000,2016_12.pdf
+aix_connect,Air Asia,airasia,2017,1,2016-17,2.86,286000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,2,2016-17,2.38,238000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,3,2016-17,2.83,283000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,4,2017-18,2.98,298000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,5,2017-18,3.32,332000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,6,2017-18,3.51,351000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,7,2017-18,3.43,343000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,8,2017-18,4.16,416000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,9,2017-18,3.94,394000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,10,2017-18,4.52,452000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,11,2017-18,4.37,437000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2017,12,2017-18,4.93,493000,2017_12_revised.pdf
+aix_connect,Air Asia,airasia,2018,1,2017-18,4.89,489000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,2,2017-18,4.56,456000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,3,2017-18,5.24,524000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,4,2018-19,5.79,579000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,5,2018-19,6.48,648000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,6,2018-19,6.01,601000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,7,2018-19,5.58,558000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,8,2018-19,5.37,537000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,9,2018-19,4.98,498000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,10,2018-19,6.43,643000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,11,2018-19,6.18,618000,2018_12.pdf
+aix_connect,Air Asia,airasia,2018,12,2018-19,6.73,673000,2018_12.pdf
+aix_connect,Air Asia,airasia,2019,1,2018-19,6.67,667000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,2,2018-19,5.83,583000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,3,2018-19,6.87,687000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,4,2019-20,6.78,678000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,5,2019-20,7.68,768000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,6,2019-20,7.72,772000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,7,2019-20,7.71,771000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,8,2019-20,7.63,763000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,9,2019-20,7.25,725000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,10,2019-20,8.03,803000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,11,2019-20,8.78,878000,2019_12.pdf
+aix_connect,Air Asia,airasia,2019,12,2019-20,9.11,911000,2019_12.pdf
+aix_connect,Air Asia,airasia,2020,1,2019-20,8.83,883000,2020_12.pdf
+aix_connect,Air Asia,airasia,2020,2,2019-20,8.97,897000,2020_12.pdf
+aix_connect,Air Asia,airasia,2020,3,2019-20,5.92,592000,2020_12.pdf
+aix_connect,Air Asia,airasia,2020,5,2020-21,0.22,22000,2020_12.pdf
+aix_connect,Air Asia,airasia,2020,6,2020-21,1.4,140000,2020_12.pdf
+aix_connect,Air Asia,airasia,2020,7,2020-21,1.3,130000,2020_12.pdf
+aix_connect,Air Asia,airasia,2020,8,2020-21,1.92,192000,2020_12.pdf
+aix_connect,Air Asia,airasia,2020,9,2020-21,2.35,235000,2020_12.pdf
+aix_connect,Air Asia,airasia,2020,10,2020-21,3.74,374000,2020_12.pdf
+aix_connect,Air Asia,airasia,2020,11,2020-21,4.21,421000,2020_12.pdf
+aix_connect,Air Asia,airasia,2020,12,2020-21,5.02,502000,2020_12.pdf
+aix_connect,Air Asia,airasia,2021,1,2020-21,5.32,532000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,2,2020-21,5.21,521000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,3,2020-21,5.42,542000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,4,2021-22,3.55,355000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,5,2021-22,0.64,64000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,6,2021-22,1.07,107000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,7,2021-22,1.65,165000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,8,2021-22,3.49,349000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,9,2021-22,4.13,413000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,10,2021-22,5.72,572000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,11,2021-22,6.23,623000,2021_12.pdf
+aix_connect,Air Asia,airasia,2021,12,2021-22,7.01,701000,2021_12.pdf
+aix_connect,Air Asia,airasia,2022,1,2021-22,2.95,295000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,2,2021-22,4.46,446000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,3,2021-22,6.98,698000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,4,2022-23,5.92,592000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,5,2022-23,6.86,686000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,6,2022-23,5.9,590000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,7,2022-23,4.42,442000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,8,2022-23,5.88,588000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,9,2022-23,6.14,614000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,10,2022-23,8.67,867000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,11,2022-23,8.85,885000,2022_12.pdf
+aix_connect,Air Asia,airasia,2022,12,2022-23,9.71,971000,2022_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,1,2022-23,9.3,930000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,2,2022-23,8.46,846000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,3,2022-23,9.76,976000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,4,2023-24,9.81,981000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,5,2023-24,10.41,1041000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,6,2023-24,10.04,1004000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,7,2023-24,9.01,901000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,8,2023-24,8.78,878000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,9,2023-24,8.16,816000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,10,2023-24,8.32,832000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,11,2023-24,8.36,836000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2023,12,2023-24,8.52,852000,2023_12.pdf
+aix_connect,AIX Connect,aixconnect,2024,1,2023-24,8.03,803000,2024_12.pdf
+aix_connect,AIX Connect,aixconnect,2024,2,2023-24,7.68,768000,2024_12.pdf
+aix_connect,AIX Connect,aixconnect,2024,3,2023-24,7.7,770000,2024_12.pdf
+aix_connect,AIX Connect,aixconnect,2024,4,2024-25,7.17,717000,2024_12.pdf
+aix_connect,AIX Connect,aixconnect,2024,5,2024-25,7.03,703000,2024_12.pdf
+aix_connect,AIX Connect,aixconnect,2024,6,2024-25,6.38,638000,2024_12.pdf
+aix_connect,AIX Connect,aixconnect,2024,7,2024-25,5.9,590000,2024_12.pdf
+aix_connect,AIX Connect,aixconnect,2024,8,2024-25,5.77,577000,2024_12.pdf
+aix_connect,AIX Connect,aixconnect,2024,9,2024-25,5.35,535000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2022,8,2022-23,0.24,24000,2022_12.pdf
+akasa_air,Akasa Air,akasaair,2022,9,2022-23,0.93,93000,2022_12.pdf
+akasa_air,Akasa Air,akasaair,2022,10,2022-23,1.61,161000,2022_12.pdf
+akasa_air,Akasa Air,akasaair,2022,11,2022-23,2.07,207000,2022_12.pdf
+akasa_air,Akasa Air,akasaair,2022,12,2022-23,2.92,292000,2022_12.pdf
+akasa_air,Akasa Air,akasaair,2023,1,2022-23,3.57,357000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,2,2022-23,3.61,361000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,3,2022-23,4.2,420000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,4,2023-24,5.13,513000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,5,2023-24,6.29,629000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,6,2023-24,6.18,618000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,7,2023-24,6.24,624000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,8,2023-24,5.27,527000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,9,2023-24,5.17,517000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,10,2023-24,5.25,525000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,11,2023-24,5.37,537000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2023,12,2023-24,6.04,604000,2023_12.pdf
+akasa_air,Akasa Air,akasaair,2024,1,2023-24,5.97,597000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,2,2023-24,5.68,568000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,3,2023-24,5.9,590000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,4,2024-25,5.8,580000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,5,2024-25,6.64,664000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,6,2024-25,6.34,634000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,7,2024-25,6.05,605000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,8,2024-25,5.92,592000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,9,2024-25,5.73,573000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,10,2024-25,6.16,616000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,11,2024-25,6.74,674000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2024,12,2024-25,6.89,689000,2024_12.pdf
+akasa_air,Akasa Air,akasaair,2025,1,2024-25,6.87,687000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,2,2024-25,6.59,659000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,3,2024-25,7.2,720000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,4,2025-26,7.13,713000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,5,2025-26,7.48,748000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,6,2025-26,7.22,722000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,7,2025-26,6.98,698000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,8,2025-26,7.03,703000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,9,2025-26,6.65,665000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,10,2025-26,7.25,725000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,11,2025-26,7.23,723000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2025,12,2025-26,7.43,743000,2025_12.pdf
+akasa_air,Akasa Air,akasaair,2026,1,2025-26,7.29,729000,2026_08.pdf
+akasa_air,Akasa Air,akasaair,2026,2,2025-26,6.89,689000,2026_08.pdf
+akasa_air,Akasa Air,akasaair,2026,3,2025-26,7.79,779000,2026_08.pdf
+akasa_air,Akasa Air,akasaair,2026,4,2026-27,7.95,795000,2026_08.pdf
+akasa_air,Akasa Air,akasaair,2026,5,2026-27,8.9,890000,2026_08.pdf
+akasa_air,Akasa Air,akasaair,2026,6,2026-27,8.61,861000,2026_08.pdf
+akasa_air,Akasa Air,akasaair,2026,7,2026-27,6.65,665000,2026_08.pdf
+akasa_air,Akasa Air,akasaair,2026,8,2026-27,6.68,668000,2026_08.pdf
+alliance_air,Alliance Air,allianceair,2021,10,2021-22,1.08,108000,2021_12.pdf
+alliance_air,Alliance Air,allianceair,2021,11,2021-22,1.2,120000,2021_12.pdf
+alliance_air,Alliance Air,allianceair,2021,12,2021-22,1.25,125000,2021_12.pdf
+alliance_air,Alliance Air,allianceair,2022,1,2021-22,0.8,80000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,2,2021-22,1.12,112000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,3,2021-22,1.45,145000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,4,2022-23,1.2,120000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,5,2022-23,1.25,125000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,6,2022-23,1.2,120000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,7,2022-23,1.12,112000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,8,2022-23,1.25,125000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,9,2022-23,1.28,128000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,10,2022-23,1.46,146000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,11,2022-23,1.44,144000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2022,12,2022-23,1.69,169000,2022_12.pdf
+alliance_air,Alliance Air,allianceair,2023,1,2022-23,1.43,143000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,2,2022-23,1.34,134000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,3,2022-23,1.33,133000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,4,2023-24,1.42,142000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,5,2023-24,1.85,185000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,6,2023-24,1.44,144000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,7,2023-24,1.24,124000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,8,2023-24,1.25,125000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,9,2023-24,1.2,120000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,10,2023-24,1.3,130000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,11,2023-24,1.24,124000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2023,12,2023-24,1.31,131000,2023_12.pdf
+alliance_air,Alliance Air,allianceair,2024,1,2023-24,1.33,133000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,2,2023-24,1.29,129000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,3,2023-24,1.4,140000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,4,2024-25,1.28,128000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,5,2024-25,1.35,135000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,6,2024-25,1.34,134000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,7,2024-25,1.21,121000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,8,2024-25,1.15,115000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,9,2024-25,1.02,102000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,10,2024-25,0.98,98000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,11,2024-25,0.97,97000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2024,12,2024-25,1.0,100000,2024_12.pdf
+alliance_air,Alliance Air,allianceair,2025,1,2024-25,0.91,91000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,2,2024-25,0.86,86000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,3,2024-25,0.78,78000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,4,2025-26,0.76,76000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,5,2025-26,0.62,62000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,6,2025-26,0.66,66000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,7,2025-26,0.46,46000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,8,2025-26,0.37,37000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,9,2025-26,0.44,44000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,10,2025-26,0.29,29000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,11,2025-26,0.58,58000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2025,12,2025-26,0.57,57000,2025_12.pdf
+alliance_air,Alliance Air,allianceair,2026,1,2025-26,0.57,57000,2026_08.pdf
+alliance_air,Alliance Air,allianceair,2026,2,2025-26,0.54,54000,2026_08.pdf
+alliance_air,Alliance Air,allianceair,2026,3,2025-26,0.91,91000,2026_08.pdf
+alliance_air,Alliance Air,allianceair,2026,4,2026-27,0.43,43000,2026_08.pdf
+alliance_air,Alliance Air,allianceair,2026,5,2026-27,0.5,50000,2026_08.pdf
+alliance_air,Alliance Air,allianceair,2026,6,2026-27,0.51,51000,2026_08.pdf
+alliance_air,Alliance Air,allianceair,2026,7,2026-27,0.5,50000,2026_08.pdf
+alliance_air,Alliance Air,allianceair,2026,8,2026-27,0.57,57000,2026_08.pdf
+fly91,Fly91,fly91,2024,3,2023-24,0.01,1000,2024_12.pdf
+fly91,Fly91,fly91,2024,4,2024-25,0.04,4000,2024_12.pdf
+fly91,Fly91,fly91,2024,5,2024-25,0.09,9000,2024_12.pdf
+fly91,Fly91,fly91,2024,6,2024-25,0.1,10000,2024_12.pdf
+fly91,Fly91,fly91,2024,7,2024-25,0.1,10000,2024_12.pdf
+fly91,Fly91,fly91,2024,8,2024-25,0.15,15000,2024_12.pdf
+fly91,Fly91,fly91,2024,9,2024-25,0.16,16000,2024_12.pdf
+fly91,Fly91,fly91,2024,10,2024-25,0.17,17000,2024_12.pdf
+fly91,Fly91,fly91,2024,11,2024-25,0.2,20000,2024_12.pdf
+fly91,Fly91,fly91,2024,12,2024-25,0.24,24000,2024_12.pdf
+fly91,Fly91,fly91,2025,1,2024-25,0.21,21000,2025_12.pdf
+fly91,Fly91,fly91,2025,2,2024-25,0.12,12000,2025_12.pdf
+fly91,Fly91,fly91,2025,3,2024-25,0.12,12000,2025_12.pdf
+fly91,Fly91,fly91,2025,4,2025-26,0.2,20000,2025_12.pdf
+fly91,Fly91,fly91,2025,5,2025-26,0.24,24000,2025_12.pdf
+fly91,Fly91,fly91,2025,6,2025-26,0.22,22000,2025_12.pdf
+fly91,Fly91,fly91,2025,7,2025-26,0.25,25000,2025_12.pdf
+fly91,Fly91,fly91,2025,8,2025-26,0.28,28000,2025_12.pdf
+fly91,Fly91,fly91,2025,9,2025-26,0.27,27000,2025_12.pdf
+fly91,Fly91,fly91,2025,10,2025-26,0.33,33000,2025_12.pdf
+fly91,Fly91,fly91,2025,11,2025-26,0.34,34000,2025_12.pdf
+fly91,Fly91,fly91,2025,12,2025-26,0.37,37000,2025_12.pdf
+fly91,Fly91,fly91,2026,1,2025-26,0.33,33000,2026_08.pdf
+fly91,Fly91,fly91,2026,2,2025-26,0.25,25000,2026_08.pdf
+fly91,Fly91,fly91,2026,3,2025-26,0.33,33000,2026_08.pdf
+fly91,Fly91,fly91,2026,4,2026-27,0.39,39000,2026_08.pdf
+fly91,Fly91,fly91,2026,5,2026-27,0.54,54000,2026_08.pdf
+fly91,Fly91,fly91,2026,6,2026-27,0.57,57000,2026_08.pdf
+fly91,Fly91,fly91,2026,7,2026-27,0.56,56000,2026_08.pdf
+fly91,Fly91,fly91,2026,8,2026-27,0.58,58000,2026_08.pdf
+flybig,Fly Big,flybig,2021,1,2020-21,0.02,2000,2021_12.pdf
+flybig,Fly Big,flybig,2021,2,2020-21,0.03,3000,2021_12.pdf
+flybig,Fly Big,flybig,2021,3,2020-21,0.03,3000,2021_12.pdf
+flybig,Fly Big,flybig,2021,4,2021-22,0.02,2000,2021_12.pdf
+flybig,Fly Big,flybig,2021,5,2021-22,0.01,1000,2021_12.pdf
+flybig,Fly Big,flybig,2021,6,2021-22,0.03,3000,2021_12.pdf
+flybig,Fly Big,flybig,2021,7,2021-22,0.05,5000,2021_12.pdf
+flybig,Fly Big,flybig,2021,8,2021-22,0.06,6000,2021_12.pdf
+flybig,Fly Big,flybig,2021,9,2021-22,0.06,6000,2021_12.pdf
+flybig,Fly Big,flybig,2021,10,2021-22,0.08,8000,2021_12.pdf
+flybig,Fly Big,flybig,2021,11,2021-22,0.1,10000,2021_12.pdf
+flybig,Fly Big,flybig,2021,12,2021-22,0.1,10000,2021_12.pdf
+flybig,Fly Big,flybig,2022,1,2021-22,0.07,7000,2022_12.pdf
+flybig,Fly Big,flybig,2022,2,2021-22,0.1,10000,2022_12.pdf
+flybig,Fly Big,flybig,2022,3,2021-22,0.13,13000,2022_12.pdf
+flybig,Fly Big,flybig,2022,4,2022-23,0.16,16000,2022_12.pdf
+flybig,Fly Big,flybig,2022,5,2022-23,0.24,24000,2022_12.pdf
+flybig,Fly Big,flybig,2022,6,2022-23,0.23,23000,2022_12.pdf
+flybig,Fly Big,flybig,2022,7,2022-23,0.22,22000,2022_12.pdf
+flybig,Fly Big,flybig,2022,8,2022-23,0.16,16000,2022_12.pdf
+flybig,Fly Big,flybig,2022,9,2022-23,0.17,17000,2022_12.pdf
+flybig,Fly Big,flybig,2022,10,2022-23,0.27,27000,2022_12.pdf
+flybig,Fly Big,flybig,2022,11,2022-23,0.26,26000,2022_12.pdf
+flybig,Fly Big,flybig,2022,12,2022-23,0.29,29000,2022_12.pdf
+flybig,Fly Big,flybig,2023,1,2022-23,0.22,22000,2023_12.pdf
+flybig,Fly Big,flybig,2023,2,2022-23,0.18,18000,2023_12.pdf
+flybig,Fly Big,flybig,2023,3,2022-23,0.16,16000,2023_12.pdf
+flybig,Fly Big,flybig,2023,4,2023-24,0.2,20000,2023_12.pdf
+flybig,Fly Big,flybig,2023,5,2023-24,0.16,16000,2023_12.pdf
+flybig,Fly Big,flybig,2023,6,2023-24,0.22,22000,2023_12.pdf
+flybig,Fly Big,flybig,2023,7,2023-24,0.25,25000,2023_12.pdf
+flybig,Fly Big,flybig,2023,8,2023-24,0.23,23000,2023_12.pdf
+flybig,Fly Big,flybig,2023,9,2023-24,0.25,25000,2023_12.pdf
+flybig,Fly Big,flybig,2023,10,2023-24,0.19,19000,2023_12.pdf
+flybig,Fly Big,flybig,2023,11,2023-24,0.04,4000,2023_12.pdf
+flybig,Fly Big,flybig,2023,12,2023-24,0.0,0,2023_12.pdf
+flybig,Fly Big,flybig,2024,1,2023-24,0.0,0,2024_12.pdf
+flybig,Fly Big,flybig,2024,2,2023-24,0.0,0,2024_12.pdf
+flybig,Fly Big,flybig,2024,3,2023-24,0.01,1000,2024_12.pdf
+flybig,Fly Big,flybig,2024,4,2024-25,0.01,1000,2024_12.pdf
+flybig,Fly Big,flybig,2024,5,2024-25,0.02,2000,2024_12.pdf
+flybig,Fly Big,flybig,2024,6,2024-25,0.02,2000,2024_12.pdf
+flybig,Fly Big,flybig,2024,7,2024-25,0.01,1000,2024_12.pdf
+flybig,Fly Big,flybig,2024,8,2024-25,0.02,2000,2024_12.pdf
+flybig,Fly Big,flybig,2024,9,2024-25,0.02,2000,2024_12.pdf
+flybig,Fly Big,flybig,2024,10,2024-25,0.02,2000,2024_12.pdf
+flybig,Fly Big,flybig,2024,11,2024-25,0.01,1000,2024_12.pdf
+flybig,Fly Big,flybig,2024,12,2024-25,0.01,1000,2024_12.pdf
+flybig,Fly Big,flybig,2025,1,2024-25,0.01,1000,2025_12.pdf
+flybig,Fly Big,flybig,2025,2,2024-25,0.01,1000,2025_12.pdf
+flybig,Fly Big,flybig,2025,3,2024-25,0.01,1000,2025_12.pdf
+flybig,Fly Big,flybig,2025,4,2025-26,0.01,1000,2025_12.pdf
+flybig,Fly Big,flybig,2025,5,2025-26,0.02,2000,2025_12.pdf
+flybig,Fly Big,flybig,2025,6,2025-26,0.01,1000,2025_12.pdf
+flybig,Fly Big,flybig,2025,7,2025-26,0.01,1000,2025_12.pdf
+flybig,Fly Big,flybig,2025,8,2025-26,0.01,1000,2025_12.pdf
+flybig,Fly Big,flybig,2025,9,2025-26,0.01,1000,2025_12.pdf
+go_first,Go Air,goair,2014,1,2013-14,4.3,430000,2014_12.pdf
+go_first,Go Air,goair,2014,2,2013-14,4.27,427000,2014_12.pdf
+go_first,Go Air,goair,2014,3,2013-14,4.53,453000,2014_12.pdf
+go_first,Go Air,goair,2014,4,2014-15,5.07,507000,2014_12.pdf
+go_first,Go Air,goair,2014,5,2014-15,5.91,591000,2014_12.pdf
+go_first,Go Air,goair,2014,6,2014-15,5.76,576000,2014_12.pdf
+go_first,Go Air,goair,2014,7,2014-15,4.8,480000,2014_12.pdf
+go_first,Go Air,goair,2014,8,2014-15,5.67,567000,2014_12.pdf
+go_first,Go Air,goair,2014,9,2014-15,5.37,537000,2014_12.pdf
+go_first,Go Air,goair,2014,10,2014-15,5.04,504000,2014_12.pdf
+go_first,Go Air,goair,2014,11,2014-15,5.29,529000,2014_12.pdf
+go_first,Go Air,goair,2014,12,2014-15,6.01,601000,2014_12.pdf
+go_first,Go Air,goair,2015,1,2014-15,5.53,553000,2015_12.pdf
+go_first,Go Air,goair,2015,2,2014-15,5.35,535000,2015_12.pdf
+go_first,Go Air,goair,2015,3,2014-15,5.51,551000,2015_12.pdf
+go_first,Go Air,goair,2015,4,2015-16,5.74,574000,2015_12.pdf
+go_first,Go Air,goair,2015,5,2015-16,6.13,613000,2015_12.pdf
+go_first,Go Air,goair,2015,6,2015-16,5.72,572000,2015_12.pdf
+go_first,Go Air,goair,2015,7,2015-16,5.66,566000,2015_12.pdf
+go_first,Go Air,goair,2015,8,2015-16,5.49,549000,2015_12.pdf
+go_first,Go Air,goair,2015,9,2015-16,5.79,579000,2015_12.pdf
+go_first,Go Air,goair,2015,10,2015-16,5.94,594000,2015_12.pdf
+go_first,Go Air,goair,2015,11,2015-16,6.03,603000,2015_12.pdf
+go_first,Go Air,goair,2015,12,2015-16,6.39,639000,2015_12.pdf
+go_first,Go Air,goair,2016,1,2015-16,6.2,620000,2016_12.pdf
+go_first,Go Air,goair,2016,2,2015-16,5.95,595000,2016_12.pdf
+go_first,Go Air,goair,2016,3,2015-16,6.56,656000,2016_12.pdf
+go_first,Go Air,goair,2016,4,2016-17,6.76,676000,2016_12.pdf
+go_first,Go Air,goair,2016,5,2016-17,7.01,701000,2016_12.pdf
+go_first,Go Air,goair,2016,6,2016-17,6.64,664000,2016_12.pdf
+go_first,Go Air,goair,2016,7,2016-17,7.16,716000,2016_12.pdf
+go_first,Go Air,goair,2016,8,2016-17,6.74,674000,2016_12.pdf
+go_first,Go Air,goair,2016,9,2016-17,6.87,687000,2016_12.pdf
+go_first,Go Air,goair,2016,10,2016-17,6.88,688000,2016_12.pdf
+go_first,Go Air,goair,2016,11,2016-17,7.2,720000,2016_12.pdf
+go_first,Go Air,goair,2016,12,2016-17,7.81,781000,2016_12.pdf
+go_first,Go Air,goair,2017,1,2016-17,7.88,788000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,2,2016-17,7.49,749000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,3,2016-17,8.02,802000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,4,2017-18,7.4,740000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,5,2017-18,8.64,864000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,6,2017-18,8.05,805000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,7,2017-18,7.42,742000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,8,2017-18,7.76,776000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,9,2017-18,8.09,809000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,10,2017-18,9.24,924000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,11,2017-18,9.34,934000,2017_12_revised.pdf
+go_first,Go Air,goair,2017,12,2017-18,10.8,1080000,2017_12_revised.pdf
+go_first,Go Air,goair,2018,1,2017-18,10.95,1095000,2018_12.pdf
+go_first,Go Air,goair,2018,2,2017-18,10.21,1021000,2018_12.pdf
+go_first,Go Air,goair,2018,3,2017-18,10.4,1040000,2018_12.pdf
+go_first,Go Air,goair,2018,4,2018-19,10.1,1010000,2018_12.pdf
+go_first,Go Air,goair,2018,5,2018-19,10.34,1034000,2018_12.pdf
+go_first,Go Air,goair,2018,6,2018-19,10.55,1055000,2018_12.pdf
+go_first,Go Air,goair,2018,7,2018-19,10.27,1027000,2018_12.pdf
+go_first,Go Air,goair,2018,8,2018-19,10.14,1014000,2018_12.pdf
+go_first,Go Air,goair,2018,9,2018-19,9.89,989000,2018_12.pdf
+go_first,Go Air,goair,2018,10,2018-19,10.48,1048000,2018_12.pdf
+go_first,Go Air,goair,2018,11,2018-19,10.19,1019000,2018_12.pdf
+go_first,Go Air,goair,2018,12,2018-19,11.12,1112000,2018_12.pdf
+go_first,Go Air,goair,2019,1,2018-19,10.88,1088000,2019_12.pdf
+go_first,Go Air,goair,2019,2,2018-19,10.27,1027000,2019_12.pdf
+go_first,Go Air,goair,2019,3,2018-19,11.49,1149000,2019_12.pdf
+go_first,Go Air,goair,2019,4,2019-20,11.9,1190000,2019_12.pdf
+go_first,Go Air,goair,2019,5,2019-20,13.55,1355000,2019_12.pdf
+go_first,Go Air,goair,2019,6,2019-20,13.3,1330000,2019_12.pdf
+go_first,Go Air,goair,2019,7,2019-20,13.26,1326000,2019_12.pdf
+go_first,Go Air,goair,2019,8,2019-20,13.91,1391000,2019_12.pdf
+go_first,Go Air,goair,2019,9,2019-20,13.27,1327000,2019_12.pdf
+go_first,Go Air,goair,2019,10,2019-20,13.78,1378000,2019_12.pdf
+go_first,Go Air,goair,2019,11,2019-20,14.22,1422000,2019_12.pdf
+go_first,Go Air,goair,2019,12,2019-20,13.32,1332000,2019_12.pdf
+go_first,Go Air,goair,2020,1,2019-20,12.47,1247000,2020_12.pdf
+go_first,Go Air,goair,2020,2,2019-20,12.31,1231000,2020_12.pdf
+go_first,Go Air,goair,2020,3,2019-20,7.68,768000,2020_12.pdf
+go_first,Go Air,goair,2020,5,2020-21,0.0,0,2020_12.pdf
+go_first,Go Air,goair,2020,6,2020-21,0.89,89000,2020_12.pdf
+go_first,Go Air,goair,2020,7,2020-21,0.79,79000,2020_12.pdf
+go_first,Go Air,goair,2020,8,2020-21,1.33,133000,2020_12.pdf
+go_first,Go Air,goair,2020,9,2020-21,2.64,264000,2020_12.pdf
+go_first,Go Air,goair,2020,10,2020-21,3.95,395000,2020_12.pdf
+go_first,Go Air,goair,2020,11,2020-21,5.77,577000,2020_12.pdf
+go_first,Go Air,goair,2020,12,2020-21,6.55,655000,2020_12.pdf
+go_first,Go Air,goair,2021,1,2020-21,6.34,634000,2021_12.pdf
+go_first,Go Air,goair,2021,2,2020-21,5.81,581000,2021_12.pdf
+go_first,Go Air,goair,2021,3,2020-21,6.12,612000,2021_12.pdf
+go_first,Go Air,goair,2021,4,2021-22,5.47,547000,2021_12.pdf
+go_first,Go Air,goair,2021,5,2021-22,1.38,138000,2021_12.pdf
+go_first,Go Air,goair,2021,6,2021-22,2.58,258000,2021_12.pdf
+go_first,Go Air,goair,2021,7,2021-22,3.42,342000,2021_12.pdf
+go_first,Go Air,goair,2021,8,2021-22,4.58,458000,2021_12.pdf
+go_first,Go Air,goair,2021,9,2021-22,5.8,580000,2021_12.pdf
+go_first,Go Air,goair,2021,10,2021-22,8.84,884000,2021_12.pdf
+go_first,Go Air,goair,2021,11,2021-22,11.56,1156000,2021_12.pdf
+go_first,Go Air,goair,2021,12,2021-22,11.93,1193000,2021_12.pdf
+go_first,Go First,gofirst,2022,1,2021-22,6.35,635000,2022_12.pdf
+go_first,Go First,gofirst,2022,2,2021-22,7.34,734000,2022_12.pdf
+go_first,Go First,gofirst,2022,3,2021-22,10.44,1044000,2022_12.pdf
+go_first,Go First,gofirst,2022,4,2022-23,11.09,1109000,2022_12.pdf
+go_first,Go First,gofirst,2022,5,2022-23,12.76,1276000,2022_12.pdf
+go_first,Go First,gofirst,2022,6,2022-23,9.99,999000,2022_12.pdf
+go_first,Go First,gofirst,2022,7,2022-23,7.95,795000,2022_12.pdf
+go_first,Go First,gofirst,2022,8,2022-23,8.7,870000,2022_12.pdf
+go_first,Go First,gofirst,2022,9,2022-23,8.15,815000,2022_12.pdf
+go_first,Go First,gofirst,2022,10,2022-23,8.02,802000,2022_12.pdf
+go_first,Go First,gofirst,2022,11,2022-23,8.7,870000,2022_12.pdf
+go_first,Go First,gofirst,2022,12,2022-23,9.51,951000,2022_12.pdf
+go_first,Go First,gofirst,2023,1,2022-23,10.53,1053000,2023_12.pdf
+go_first,Go First,gofirst,2023,2,2022-23,9.63,963000,2023_12.pdf
+go_first,Go First,gofirst,2023,3,2022-23,8.95,895000,2023_12.pdf
+go_first,Go First,gofirst,2023,4,2023-24,8.29,829000,2023_12.pdf
+go_first,Go First,gofirst,2023,5,2023-24,0.48,48000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2022,11,2022-23,0.01,1000,2022_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2022,12,2022-23,0.0,0,2022_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,1,2022-23,0.01,1000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,2,2022-23,0.02,2000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,3,2022-23,0.02,2000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,4,2023-24,0.02,2000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,5,2023-24,0.01,1000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,6,2023-24,0.01,1000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,7,2023-24,0.01,1000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,8,2023-24,0.01,1000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,9,2023-24,0.02,2000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,10,2023-24,0.02,2000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,11,2023-24,0.03,3000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2023,12,2023-24,0.03,3000,2023_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,1,2023-24,0.02,2000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,2,2023-24,0.02,2000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,3,2023-24,0.03,3000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,4,2024-25,0.02,2000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,5,2024-25,0.02,2000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,6,2024-25,0.02,2000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,7,2024-25,0.02,2000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,8,2024-25,0.02,2000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,9,2024-25,0.02,2000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,10,2024-25,0.02,2000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,11,2024-25,0.03,3000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2024,12,2024-25,0.03,3000,2024_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,1,2024-25,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,2,2024-25,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,3,2024-25,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,4,2025-26,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,5,2025-26,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,6,2025-26,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,7,2025-26,0.02,2000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,8,2025-26,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,9,2025-26,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,10,2025-26,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,11,2025-26,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2025,12,2025-26,0.03,3000,2025_12.pdf
+india_one_air,Indiaone Air,indiaoneair,2026,1,2025-26,0.02,2000,2026_08.pdf
+india_one_air,Indiaone Air,indiaoneair,2026,2,2025-26,0.02,2000,2026_08.pdf
+india_one_air,Indiaone Air,indiaoneair,2026,3,2025-26,0.02,2000,2026_08.pdf
+india_one_air,Indiaone Air,indiaoneair,2026,4,2026-27,0.02,2000,2026_08.pdf
+india_one_air,Indiaone Air,indiaoneair,2026,5,2026-27,0.02,2000,2026_08.pdf
+india_one_air,Indiaone Air,indiaoneair,2026,6,2026-27,0.02,2000,2026_08.pdf
+india_one_air,Indiaone Air,indiaoneair,2026,7,2026-27,0.01,1000,2026_08.pdf
+india_one_air,Indiaone Air,indiaoneair,2026,8,2026-27,0.01,1000,2026_08.pdf
+indigo,IndiGo,indigo,2014,1,2013-14,14.27,1427000,2014_12.pdf
+indigo,IndiGo,indigo,2014,2,2013-14,14.64,1464000,2014_12.pdf
+indigo,IndiGo,indigo,2014,3,2013-14,16.01,1601000,2014_12.pdf
+indigo,IndiGo,indigo,2014,4,2014-15,16.8,1680000,2014_12.pdf
+indigo,IndiGo,indigo,2014,5,2014-15,19.08,1908000,2014_12.pdf
+indigo,IndiGo,indigo,2014,6,2014-15,17.97,1797000,2014_12.pdf
+indigo,IndiGo,indigo,2014,7,2014-15,16.0,1600000,2014_12.pdf
+indigo,IndiGo,indigo,2014,8,2014-15,18.59,1859000,2014_12.pdf
+indigo,IndiGo,indigo,2014,9,2014-15,19.07,1907000,2014_12.pdf
+indigo,IndiGo,indigo,2014,10,2014-15,18.9,1890000,2014_12.pdf
+indigo,IndiGo,indigo,2014,11,2014-15,19.68,1968000,2014_12.pdf
+indigo,IndiGo,indigo,2014,12,2014-15,23.24,2324000,2014_12.pdf
+indigo,IndiGo,indigo,2015,1,2014-15,22.76,2276000,2015_12.pdf
+indigo,IndiGo,indigo,2015,2,2014-15,22.31,2231000,2015_12.pdf
+indigo,IndiGo,indigo,2015,3,2014-15,22.86,2286000,2015_12.pdf
+indigo,IndiGo,indigo,2015,4,2015-16,24.81,2481000,2015_12.pdf
+indigo,IndiGo,indigo,2015,5,2015-16,27.69,2769000,2015_12.pdf
+indigo,IndiGo,indigo,2015,6,2015-16,25.37,2537000,2015_12.pdf
+indigo,IndiGo,indigo,2015,7,2015-16,24.17,2417000,2015_12.pdf
+indigo,IndiGo,indigo,2015,8,2015-16,23.85,2385000,2015_12.pdf
+indigo,IndiGo,indigo,2015,9,2015-16,24.3,2430000,2015_12.pdf
+indigo,IndiGo,indigo,2015,10,2015-16,25.9,2590000,2015_12.pdf
+indigo,IndiGo,indigo,2015,11,2015-16,25.98,2598000,2015_12.pdf
+indigo,IndiGo,indigo,2015,12,2015-16,27.43,2743000,2015_12.pdf
+indigo,IndiGo,indigo,2016,1,2015-16,27.26,2726000,2016_12.pdf
+indigo,IndiGo,indigo,2016,2,2015-16,27.54,2754000,2016_12.pdf
+indigo,IndiGo,indigo,2016,3,2015-16,30.23,3023000,2016_12.pdf
+indigo,IndiGo,indigo,2016,4,2016-17,30.67,3067000,2016_12.pdf
+indigo,IndiGo,indigo,2016,5,2016-17,33.37,3337000,2016_12.pdf
+indigo,IndiGo,indigo,2016,6,2016-17,30.23,3023000,2016_12.pdf
+indigo,IndiGo,indigo,2016,7,2016-17,33.84,3384000,2016_12.pdf
+indigo,IndiGo,indigo,2016,8,2016-17,33.41,3341000,2016_12.pdf
+indigo,IndiGo,indigo,2016,9,2016-17,32.96,3296000,2016_12.pdf
+indigo,IndiGo,indigo,2016,10,2016-17,36.93,3693000,2016_12.pdf
+indigo,IndiGo,indigo,2016,11,2016-17,37.73,3773000,2016_12.pdf
+indigo,IndiGo,indigo,2016,12,2016-17,38.48,3848000,2016_12.pdf
+indigo,Indigo,indigo,2017,1,2016-17,38.09,3809000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,2,2016-17,34.19,3419000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,3,2016-17,36.11,3611000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,4,2017-18,37.79,3779000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,5,2017-18,41.91,4191000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,6,2017-18,38.26,3826000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,7,2017-18,36.99,3699000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,8,2017-18,36.78,3678000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,9,2017-18,36.65,3665000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,10,2017-18,41.33,4133000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,11,2017-18,41.32,4132000,2017_12_revised.pdf
+indigo,Indigo,indigo,2017,12,2017-18,44.3,4430000,2017_12_revised.pdf
+indigo,Indigo,indigo,2018,1,2017-18,45.57,4557000,2018_12.pdf
+indigo,Indigo,indigo,2018,2,2017-18,42.9,4290000,2018_12.pdf
+indigo,Indigo,indigo,2018,3,2017-18,45.76,4576000,2018_12.pdf
+indigo,Indigo,indigo,2018,4,2018-19,45.8,4580000,2018_12.pdf
+indigo,Indigo,indigo,2018,5,2018-19,48.53,4853000,2018_12.pdf
+indigo,Indigo,indigo,2018,6,2018-19,46.73,4673000,2018_12.pdf
+indigo,Indigo,indigo,2018,7,2018-19,48.65,4865000,2018_12.pdf
+indigo,Indigo,indigo,2018,8,2018-19,47.57,4757000,2018_12.pdf
+indigo,Indigo,indigo,2018,9,2018-19,49.2,4920000,2018_12.pdf
+indigo,Indigo,indigo,2018,10,2018-19,50.75,5075000,2018_12.pdf
+indigo,Indigo,indigo,2018,11,2018-19,50.06,5006000,2018_12.pdf
+indigo,Indigo,indigo,2018,12,2018-19,54.79,5479000,2018_12.pdf
+indigo,IndiGo,indigo,2019,1,2018-19,53.22,5322000,2019_12.pdf
+indigo,IndiGo,indigo,2019,2,2018-19,49.31,4931000,2019_12.pdf
+indigo,IndiGo,indigo,2019,3,2018-19,54.41,5441000,2019_12.pdf
+indigo,IndiGo,indigo,2019,4,2019-20,54.81,5481000,2019_12.pdf
+indigo,IndiGo,indigo,2019,5,2019-20,59.8,5980000,2019_12.pdf
+indigo,IndiGo,indigo,2019,6,2019-20,57.78,5778000,2019_12.pdf
+indigo,IndiGo,indigo,2019,7,2019-20,56.93,5693000,2019_12.pdf
+indigo,IndiGo,indigo,2019,8,2019-20,55.41,5541000,2019_12.pdf
+indigo,IndiGo,indigo,2019,9,2019-20,55.59,5559000,2019_12.pdf
+indigo,IndiGo,indigo,2019,10,2019-20,58.42,5842000,2019_12.pdf
+indigo,IndiGo,indigo,2019,11,2019-20,61.51,6151000,2019_12.pdf
+indigo,IndiGo,indigo,2019,12,2019-20,61.88,6188000,2019_12.pdf
+indigo,IndiGo,indigo,2020,1,2019-20,61.2,6120000,2020_12.pdf
+indigo,IndiGo,indigo,2020,2,2019-20,59.31,5931000,2020_12.pdf
+indigo,IndiGo,indigo,2020,3,2019-20,37.93,3793000,2020_12.pdf
+indigo,IndiGo,indigo,2020,5,2020-21,1.42,142000,2020_12.pdf
+indigo,IndiGo,indigo,2020,6,2020-21,10.47,1047000,2020_12.pdf
+indigo,IndiGo,indigo,2020,7,2020-21,12.72,1272000,2020_12.pdf
+indigo,IndiGo,indigo,2020,8,2020-21,16.82,1682000,2020_12.pdf
+indigo,IndiGo,indigo,2020,9,2020-21,22.66,2266000,2020_12.pdf
+indigo,IndiGo,indigo,2020,10,2020-21,29.27,2927000,2020_12.pdf
+indigo,IndiGo,indigo,2020,11,2020-21,34.23,3423000,2020_12.pdf
+indigo,IndiGo,indigo,2020,12,2020-21,39.52,3952000,2020_12.pdf
+indigo,IndiGo,indigo,2021,1,2020-21,42.03,4203000,2021_12.pdf
+indigo,IndiGo,indigo,2021,2,2020-21,42.38,4238000,2021_12.pdf
+indigo,IndiGo,indigo,2021,3,2020-21,41.85,4185000,2021_12.pdf
+indigo,IndiGo,indigo,2021,4,2021-22,30.83,3083000,2021_12.pdf
+indigo,IndiGo,indigo,2021,5,2021-22,11.69,1169000,2021_12.pdf
+indigo,IndiGo,indigo,2021,6,2021-22,17.02,1702000,2021_12.pdf
+indigo,IndiGo,indigo,2021,7,2021-22,29.32,2932000,2021_12.pdf
+indigo,IndiGo,indigo,2021,8,2021-22,38.16,3816000,2021_12.pdf
+indigo,IndiGo,indigo,2021,9,2021-22,39.69,3969000,2021_12.pdf
+indigo,IndiGo,indigo,2021,10,2021-22,48.07,4807000,2021_12.pdf
+indigo,IndiGo,indigo,2021,11,2021-22,57.06,5706000,2021_12.pdf
+indigo,IndiGo,indigo,2021,12,2021-22,61.41,6141000,2021_12.pdf
+indigo,Indigo,indigo,2022,1,2021-22,35.57,3557000,2022_12.pdf
+indigo,Indigo,indigo,2022,2,2021-22,39.51,3951000,2022_12.pdf
+indigo,Indigo,indigo,2022,3,2021-22,57.84,5784000,2022_12.pdf
+indigo,Indigo,indigo,2022,4,2022-23,59.57,5957000,2022_12.pdf
+indigo,Indigo,indigo,2022,5,2022-23,63.76,6376000,2022_12.pdf
+indigo,Indigo,indigo,2022,6,2022-23,59.83,5983000,2022_12.pdf
+indigo,Indigo,indigo,2022,7,2022-23,57.11,5711000,2022_12.pdf
+indigo,Indigo,indigo,2022,8,2022-23,58.32,5832000,2022_12.pdf
+indigo,Indigo,indigo,2022,9,2022-23,59.72,5972000,2022_12.pdf
+indigo,Indigo,indigo,2022,10,2022-23,64.71,6471000,2022_12.pdf
+indigo,Indigo,indigo,2022,11,2022-23,65.01,6501000,2022_12.pdf
+indigo,Indigo,indigo,2022,12,2022-23,69.97,6997000,2022_12.pdf
+indigo,Indigo,indigo,2023,1,2022-23,68.47,6847000,2023_12.pdf
+indigo,Indigo,indigo,2023,2,2022-23,67.42,6742000,2023_12.pdf
+indigo,Indigo,indigo,2023,3,2022-23,73.17,7317000,2023_12.pdf
+indigo,Indigo,indigo,2023,4,2023-24,74.06,7406000,2023_12.pdf
+indigo,Indigo,indigo,2023,5,2023-24,81.1,8110000,2023_12.pdf
+indigo,Indigo,indigo,2023,6,2023-24,78.93,7893000,2023_12.pdf
+indigo,Indigo,indigo,2023,7,2023-24,76.75,7675000,2023_12.pdf
+indigo,Indigo,indigo,2023,8,2023-24,78.67,7867000,2023_12.pdf
+indigo,Indigo,indigo,2023,9,2023-24,77.7,7770000,2023_12.pdf
+indigo,Indigo,indigo,2023,10,2023-24,79.07,7907000,2023_12.pdf
+indigo,Indigo,indigo,2023,11,2023-24,78.76,7876000,2023_12.pdf
+indigo,Indigo,indigo,2023,12,2023-24,85.26,8526000,2023_12.pdf
+indigo,Indigo,indigo,2024,1,2023-24,79.09,7909000,2024_12.pdf
+indigo,Indigo,indigo,2024,2,2023-24,76.02,7602000,2024_12.pdf
+indigo,Indigo,indigo,2024,3,2023-24,80.86,8086000,2024_12.pdf
+indigo,Indigo,indigo,2024,4,2024-25,80.0,8000000,2024_12.pdf
+indigo,Indigo,indigo,2024,5,2024-25,85.04,8504000,2024_12.pdf
+indigo,Indigo,indigo,2024,6,2024-25,80.3,8030000,2024_12.pdf
+indigo,Indigo,indigo,2024,7,2024-25,80.47,8047000,2024_12.pdf
+indigo,Indigo,indigo,2024,8,2024-25,81.9,8190000,2024_12.pdf
+indigo,Indigo,indigo,2024,9,2024-25,82.12,8212000,2024_12.pdf
+indigo,Indigo,indigo,2024,10,2024-25,86.4,8640000,2024_12.pdf
+indigo,Indigo,indigo,2024,11,2024-25,90.7,9070000,2024_12.pdf
+indigo,Indigo,indigo,2024,12,2024-25,96.15,9615000,2024_12.pdf
+indigo,Indigo,indigo,2025,1,2024-25,95.22,9522000,2025_12.pdf
+indigo,Indigo,indigo,2025,2,2024-25,89.4,8940000,2025_12.pdf
+indigo,Indigo,indigo,2025,3,2024-25,93.09,9309000,2025_12.pdf
+indigo,Indigo,indigo,2025,4,2025-26,91.72,9172000,2025_12.pdf
+indigo,Indigo,indigo,2025,5,2025-26,90.8,9080000,2025_12.pdf
+indigo,Indigo,indigo,2025,6,2025-26,87.74,8774000,2025_12.pdf
+indigo,Indigo,indigo,2025,7,2025-26,82.15,8215000,2025_12.pdf
+indigo,Indigo,indigo,2025,8,2025-26,83.14,8314000,2025_12.pdf
+indigo,Indigo,indigo,2025,9,2025-26,81.27,8127000,2025_12.pdf
+indigo,Indigo,indigo,2025,10,2025-26,91.96,9196000,2025_12.pdf
+indigo,Indigo,indigo,2025,11,2025-26,96.93,9693000,2025_12.pdf
+indigo,Indigo,indigo,2025,12,2025-26,85.23,8523000,2025_12.pdf
+indigo,Indigo,indigo,2026,1,2025-26,97.04,9704000,2026_08.pdf
+indigo,Indigo,indigo,2026,2,2025-26,88.71,8871000,2026_08.pdf
+indigo,Indigo,indigo,2026,3,2025-26,91.19,9119000,2026_08.pdf
+indigo,Indigo,indigo,2026,4,2026-27,89.79,8979000,2026_08.pdf
+indigo,Indigo,indigo,2026,5,2026-27,99.91,9991000,2026_08.pdf
+indigo,Indigo,indigo,2026,6,2026-27,89.2,8920000,2026_08.pdf
+indigo,Indigo,indigo,2026,7,2026-27,80.82,8082000,2026_08.pdf
+indigo,Indigo,indigo,2026,8,2026-27,78.87,7887000,2026_08.pdf
+jet_airways,Jet Airways,jetairways,2014,1,2013-14,10.23,1023000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,2,2013-14,9.58,958000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,3,2013-14,9.64,964000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,4,2014-15,9.32,932000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,5,2014-15,10.29,1029000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,6,2014-15,8.73,873000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,7,2014-15,8.17,817000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,8,2014-15,9.16,916000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,9,2014-15,9.72,972000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,10,2014-15,9.73,973000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,11,2014-15,10.81,1081000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2014,12,2014-15,12.05,1205000,2014_12.pdf
+jet_airways,Jet Airways,jetairways,2015,1,2014-15,12.25,1225000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,2,2014-15,11.89,1189000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,3,2014-15,13.0,1300000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,4,2015-16,12.86,1286000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,5,2015-16,13.01,1301000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,6,2015-16,12.11,1211000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,7,2015-16,13.35,1335000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,8,2015-16,13.39,1339000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,9,2015-16,12.78,1278000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,10,2015-16,13.23,1323000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,11,2015-16,13.62,1362000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2015,12,2015-16,14.04,1404000,2015_12.pdf
+jet_airways,Jet Airways,jetairways,2016,1,2015-16,14.32,1432000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,2,2015-16,13.73,1373000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,3,2015-16,13.89,1389000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,4,2016-17,12.62,1262000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,5,2016-17,13.94,1394000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,6,2016-17,12.96,1296000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,7,2016-17,13.9,1390000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,8,2016-17,13.7,1370000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,9,2016-17,13.32,1332000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,10,2016-17,12.73,1273000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,11,2016-17,13.36,1336000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2016,12,2016-17,14.6,1460000,2016_12.pdf
+jet_airways,Jet Airways,jetairways,2017,1,2016-17,14.84,1484000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,2,2016-17,13.67,1367000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,3,2016-17,13.97,1397000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,4,2017-18,13.9,1390000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,5,2017-18,15.51,1551000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,6,2017-18,14.58,1458000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,7,2017-18,15.12,1512000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,8,2017-18,15.38,1538000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,9,2017-18,14.77,1477000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,10,2017-18,15.88,1588000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,11,2017-18,15.97,1597000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2017,12,2017-18,16.37,1637000,2017_12_revised.pdf
+jet_airways,Jet Airways,jetairways,2018,1,2017-18,16.37,1637000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,2,2017-18,15.72,1572000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,3,2017-18,17.43,1743000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,4,2018-19,16.94,1694000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,5,2018-19,16.26,1626000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,6,2018-19,15.12,1512000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,7,2018-19,15.76,1576000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,8,2018-19,15.61,1561000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,9,2018-19,16.13,1613000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,10,2018-19,15.72,1572000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,11,2018-19,14.87,1487000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2018,12,2018-19,15.48,1548000,2018_12.pdf
+jet_airways,Jet Airways,jetairways,2019,1,2018-19,14.91,1491000,2019_12.pdf
+jet_airways,Jet Airways,jetairways,2019,2,2018-19,11.33,1133000,2019_12.pdf
+jet_airways,Jet Airways,jetairways,2019,3,2018-19,5.37,537000,2019_12.pdf
+jet_airways,Jet Airways,jetairways,2019,4,2019-20,0.86,86000,2019_12.pdf
+jet_airways,Jet Airways,jetairways,2019,5,2019-20,0.0,0,2019_09.pdf
+jet_airways,Jet Airways,jetairways,2019,6,2019-20,0.0,0,2019_09.pdf
+jet_airways,Jet Airways,jetairways,2019,7,2019-20,0.0,0,2019_09.pdf
+jet_airways,Jet Airways,jetairways,2019,8,2019-20,0.0,0,2019_09.pdf
+jet_airways,Jet Airways,jetairways,2019,9,2019-20,0.0,0,2019_09.pdf
+jet_airways,Jet Airways,jetairways,2019,11,2019-20,0.0,0,2019_12.pdf
+jet_airways,Jet Airways,jetairways,2019,12,2019-20,0.0,0,2019_12.pdf
+jet_airways,Jet Airways,jetairways,2020,1,2019-20,0.0,0,2020_01.pdf
+jetlite,Jet Lite,jetlite,2014,1,2013-14,2.75,275000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,2,2013-14,2.34,234000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,3,2013-14,2.28,228000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,4,2014-15,2.3,230000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,5,2014-15,2.32,232000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,6,2014-15,2.44,244000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,7,2014-15,2.04,204000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,8,2014-15,2.26,226000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,9,2014-15,2.4,240000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,10,2014-15,2.42,242000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,11,2014-15,2.72,272000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2014,12,2014-15,2.95,295000,2014_12.pdf
+jetlite,Jet Lite,jetlite,2015,1,2014-15,2.78,278000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,2,2014-15,2.73,273000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,3,2014-15,2.95,295000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,4,2015-16,2.29,229000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,5,2015-16,2.25,225000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,6,2015-16,1.87,187000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,7,2015-16,2.02,202000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,8,2015-16,2.05,205000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,9,2015-16,1.85,185000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,10,2015-16,1.72,172000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,11,2015-16,2.01,201000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2015,12,2015-16,2.18,218000,2015_12.pdf
+jetlite,Jet Lite,jetlite,2016,1,2015-16,2.06,206000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,2,2015-16,2.06,206000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,3,2015-16,2.06,206000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,4,2016-17,2.41,241000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,5,2016-17,2.54,254000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,6,2016-17,2.27,227000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,7,2016-17,2.39,239000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,8,2016-17,2.34,234000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,9,2016-17,1.98,198000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,10,2016-17,2.09,209000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,11,2016-17,2.18,218000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2016,12,2016-17,2.46,246000,2016_12.pdf
+jetlite,Jet Lite,jetlite,2017,1,2016-17,2.4,240000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,2,2016-17,2.15,215000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,3,2016-17,2.3,230000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,4,2017-18,2.22,222000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,5,2017-18,2.46,246000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,6,2017-18,2.18,218000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,7,2017-18,2.25,225000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,8,2017-18,2.37,237000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,9,2017-18,2.21,221000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,10,2017-18,2.13,213000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,11,2017-18,2.41,241000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2017,12,2017-18,2.56,256000,2017_12_revised.pdf
+jetlite,Jet Lite,jetlite,2018,1,2017-18,2.63,263000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,2,2017-18,2.32,232000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,3,2017-18,1.84,184000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,4,2018-19,1.73,173000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,5,2018-19,1.82,182000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,6,2018-19,1.94,194000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,7,2018-19,1.71,171000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,8,2018-19,1.63,163000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,9,2018-19,1.82,182000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,10,2018-19,1.89,189000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,11,2018-19,1.75,175000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2018,12,2018-19,2.15,215000,2018_12.pdf
+jetlite,Jet Lite,jetlite,2019,1,2018-19,2.15,215000,2019_12.pdf
+jetlite,Jet Lite,jetlite,2019,2,2018-19,1.59,159000,2019_12.pdf
+jetlite,Jet Lite,jetlite,2019,3,2018-19,1.34,134000,2019_12.pdf
+jetlite,Jet Lite,jetlite,2019,4,2019-20,0.17,17000,2019_12.pdf
+jetlite,Jet Lite,jetlite,2019,5,2019-20,0.0,0,2019_09.pdf
+jetlite,Jet Lite,jetlite,2019,6,2019-20,0.0,0,2019_09.pdf
+jetlite,Jet Lite,jetlite,2019,7,2019-20,0.0,0,2019_09.pdf
+jetlite,Jet Lite,jetlite,2019,8,2019-20,0.0,0,2019_09.pdf
+jetlite,Jet Lite,jetlite,2019,9,2019-20,0.0,0,2019_09.pdf
+jetlite,Jet Lite,jetlite,2019,11,2019-20,0.0,0,2019_12.pdf
+jetlite,Jet Lite,jetlite,2019,12,2019-20,0.0,0,2019_12.pdf
+jetlite,Jet Lite,jetlite,2020,1,2019-20,0.0,0,2020_01.pdf
+pawan_hans,Pawan Hans,pawanhans,2019,5,2019-20,0.0,0,2019_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2019,6,2019-20,0.0,0,2019_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2019,7,2019-20,0.0,0,2019_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2019,8,2019-20,0.0,0,2019_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2019,9,2019-20,0.0,0,2019_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2019,10,2019-20,0.0,0,2019_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2019,11,2019-20,0.0,0,2019_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2019,12,2019-20,0.0,0,2019_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,1,2019-20,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,2,2019-20,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,3,2019-20,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,5,2020-21,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,6,2020-21,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,7,2020-21,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,8,2020-21,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,9,2020-21,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,10,2020-21,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,11,2020-21,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2020,12,2020-21,0.0,0,2020_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,1,2020-21,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,2,2020-21,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,3,2020-21,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,4,2021-22,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,5,2021-22,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,6,2021-22,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,7,2021-22,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,8,2021-22,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,9,2021-22,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,10,2021-22,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,11,2021-22,0.0,0,2021_12.pdf
+pawan_hans,Pawan Hans,pawanhans,2021,12,2021-22,0.0,0,2021_12.pdf
+spicejet,Spice Jet,spicejet,2014,1,2013-14,9.57,957000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,2,2013-14,8.85,885000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,3,2013-14,9.41,941000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,4,2014-15,9.5,950000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,5,2014-15,10.8,1080000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,6,2014-15,10.8,1080000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,7,2014-15,10.92,1092000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,8,2014-15,11.09,1109000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,9,2014-15,10.81,1081000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,10,2014-15,10.27,1027000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,11,2014-15,8.76,876000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2014,12,2014-15,6.71,671000,2014_12.pdf
+spicejet,Spice Jet,spicejet,2015,1,2014-15,5.87,587000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,2,2014-15,5.53,553000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,3,2014-15,6.09,609000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,4,2015-16,7.07,707000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,5,2015-16,8.37,837000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,6,2015-16,8.0,800000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,7,2015-16,8.31,831000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,8,2015-16,8.3,830000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,9,2015-16,8.19,819000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,10,2015-16,8.99,899000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,11,2015-16,9.77,977000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2015,12,2015-16,9.76,976000,2015_12.pdf
+spicejet,Spice Jet,spicejet,2016,1,2015-16,10.11,1011000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,2,2015-16,9.76,976000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,3,2015-16,10.06,1006000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,4,2016-17,10.21,1021000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,5,2016-17,10.96,1096000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,6,2016-17,10.1,1010000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,7,2016-17,9.94,994000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,8,2016-17,10.54,1054000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,9,2016-17,10.3,1030000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,10,2016-17,11.18,1118000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,11,2016-17,11.48,1148000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2016,12,2016-17,12.1,1210000,2016_12.pdf
+spicejet,Spice Jet,spicejet,2017,1,2016-17,12.29,1229000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,2,2016-17,11.32,1132000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,3,2016-17,11.93,1193000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,4,2017-18,11.77,1177000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,5,2017-18,12.79,1279000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,6,2017-18,12.73,1273000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,7,2017-18,13.58,1358000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,8,2017-18,13.59,1359000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,9,2017-18,13.2,1320000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,10,2017-18,13.64,1364000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,11,2017-18,13.2,1320000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2017,12,2017-18,14.27,1427000,2017_12_revised.pdf
+spicejet,Spice Jet,spicejet,2018,1,2017-18,14.48,1448000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,2,2017-18,13.32,1332000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,3,2017-18,14.74,1474000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,4,2018-19,14.27,1427000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,5,2018-19,14.59,1459000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,6,2018-19,13.7,1370000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,7,2018-19,14.27,1427000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,8,2018-19,14.04,1404000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,9,2018-19,13.63,1363000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,10,2018-19,13.82,1382000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,11,2018-19,14.55,1455000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2018,12,2018-19,15.64,1564000,2018_12.pdf
+spicejet,Spice Jet,spicejet,2019,1,2018-19,16.66,1666000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,2,2018-19,15.58,1558000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,3,2018-19,15.81,1581000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,4,2019-20,14.41,1441000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,5,2019-20,18.03,1803000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,6,2019-20,18.76,1876000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,7,2019-20,18.48,1848000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,8,2019-20,18.34,1834000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,9,2019-20,17.0,1700000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,10,2019-20,20.05,2005000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,11,2019-20,20.8,2080000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2019,12,2019-20,21.44,2144000,2019_12.pdf
+spicejet,Spice Jet,spicejet,2020,1,2019-20,21.24,2124000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2020,2,2019-20,18.91,1891000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2020,3,2019-20,12.45,1245000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2020,5,2020-21,0.48,48000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2020,6,2020-21,3.34,334000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2020,7,2020-21,3.31,331000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2020,8,2020-21,3.91,391000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2020,9,2020-21,5.3,530000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2020,10,2020-21,7.04,704000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2020,11,2020-21,8.4,840000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2020,12,2020-21,9.52,952000,2020_12.pdf
+spicejet,Spice Jet,spicejet,2021,1,2020-21,9.92,992000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,2,2020-21,9.62,962000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,3,2020-21,10.03,1003000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,4,2021-22,7.05,705000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,5,2021-22,1.99,199000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,6,2021-22,2.81,281000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,7,2021-22,4.56,456000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,8,2021-22,5.84,584000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,9,2021-22,6.02,602000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,10,2021-22,8.1,810000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,11,2021-22,10.78,1078000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2021,12,2021-22,11.51,1151000,2021_12.pdf
+spicejet,Spice Jet,spicejet,2022,1,2021-22,6.8,680000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,2,2021-22,8.2,820000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,3,2021-22,10.21,1021000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,4,2022-23,10.01,1001000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,5,2022-23,11.52,1152000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,6,2022-23,10.02,1002000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,7,2022-23,7.76,776000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,8,2022-23,7.98,798000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,9,2022-23,7.53,753000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,10,2022-23,8.29,829000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,11,2022-23,8.76,876000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2022,12,2022-23,9.64,964000,2022_12.pdf
+spicejet,Spice Jet,spicejet,2023,1,2022-23,9.14,914000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,2,2022-23,8.58,858000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,3,2022-23,8.27,827000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,4,2023-24,7.41,741000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,5,2023-24,7.2,720000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,6,2023-24,5.55,555000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,7,2023-24,5.04,504000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,8,2023-24,5.41,541000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,9,2023-24,5.45,545000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,10,2023-24,6.28,628000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,11,2023-24,7.85,785000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2023,12,2023-24,7.72,772000,2023_12.pdf
+spicejet,Spice Jet,spicejet,2024,1,2023-24,7.4,740000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,2,2023-24,6.59,659000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,3,2023-24,7.02,702000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,4,2024-25,6.17,617000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,5,2024-25,5.54,554000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,6,2024-25,5.0,500000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,7,2024-25,4.05,405000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,8,2024-25,3.02,302000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,9,2024-25,2.61,261000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,10,2024-25,3.35,335000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,11,2024-25,4.43,443000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2024,12,2024-25,4.89,489000,2024_12.pdf
+spicejet,Spice Jet,spicejet,2025,1,2024-25,4.66,466000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,2,2024-25,4.54,454000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,3,2024-25,4.8,480000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,4,2025-26,3.79,379000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,5,2025-26,3.4,340000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,6,2025-26,2.61,261000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,7,2025-26,2.46,246000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,8,2025-26,2.6,260000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,9,2025-26,2.45,245000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,10,2025-26,3.62,362000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,11,2025-26,5.67,567000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2025,12,2025-26,6.14,614000,2025_12.pdf
+spicejet,Spice Jet,spicejet,2026,1,2025-26,5.92,592000,2026_08.pdf
+spicejet,Spice Jet,spicejet,2026,2,2025-26,5.55,555000,2026_08.pdf
+spicejet,Spice Jet,spicejet,2026,3,2025-26,5.41,541000,2026_08.pdf
+spicejet,Spice Jet,spicejet,2026,4,2026-27,4.74,474000,2026_08.pdf
+spicejet,Spice Jet,spicejet,2026,5,2026-27,3.86,386000,2026_08.pdf
+spicejet,Spice Jet,spicejet,2026,6,2026-27,2.63,263000,2026_08.pdf
+spicejet,Spice Jet,spicejet,2026,7,2026-27,1.87,187000,2026_08.pdf
+spicejet,Spice Jet,spicejet,2026,8,2026-27,1.4,140000,2026_08.pdf
+star_air,Star Air,starair,2019,1,2018-19,0.01,1000,2019_12.pdf
+star_air,Star Air,starair,2019,2,2018-19,0.03,3000,2019_12.pdf
+star_air,Star Air,starair,2019,3,2018-19,0.04,4000,2019_12.pdf
+star_air,Star Air,starair,2019,4,2019-20,0.04,4000,2019_12.pdf
+star_air,Star Air,starair,2019,5,2019-20,0.06,6000,2019_12.pdf
+star_air,Star Air,starair,2019,6,2019-20,0.05,5000,2019_12.pdf
+star_air,Star Air,starair,2019,7,2019-20,0.05,5000,2019_12.pdf
+star_air,Star Air,starair,2019,8,2019-20,0.04,4000,2019_12.pdf
+star_air,Star Air,starair,2019,9,2019-20,0.05,5000,2019_12.pdf
+star_air,Star Air,starair,2019,10,2019-20,0.06,6000,2019_12.pdf
+star_air,Star Air,starair,2019,11,2019-20,0.09,9000,2019_12.pdf
+star_air,Star Air,starair,2019,12,2019-20,0.11,11000,2019_12.pdf
+star_air,Star Air,starair,2020,1,2019-20,0.11,11000,2020_12.pdf
+star_air,Star Air,starair,2020,2,2019-20,0.12,12000,2020_12.pdf
+star_air,Star Air,starair,2020,3,2019-20,0.08,8000,2020_12.pdf
+star_air,Star Air,starair,2020,5,2020-21,0.0,0,2020_12.pdf
+star_air,Star Air,starair,2020,6,2020-21,0.06,6000,2020_12.pdf
+star_air,Star Air,starair,2020,7,2020-21,0.06,6000,2020_12.pdf
+star_air,Star Air,starair,2020,8,2020-21,0.07,7000,2020_12.pdf
+star_air,Star Air,starair,2020,9,2020-21,0.08,8000,2020_12.pdf
+star_air,Star Air,starair,2020,10,2020-21,0.09,9000,2020_12.pdf
+star_air,Star Air,starair,2020,11,2020-21,0.11,11000,2020_12.pdf
+star_air,Star Air,starair,2020,12,2020-21,0.13,13000,2020_12.pdf
+star_air,Star Air,starair,2021,1,2020-21,0.16,16000,2021_12.pdf
+star_air,Star Air,starair,2021,2,2020-21,0.18,18000,2021_12.pdf
+star_air,Star Air,starair,2021,3,2020-21,0.19,19000,2021_12.pdf
+star_air,Star Air,starair,2021,4,2021-22,0.13,13000,2021_12.pdf
+star_air,Star Air,starair,2021,5,2021-22,0.07,7000,2021_12.pdf
+star_air,Star Air,starair,2021,6,2021-22,0.12,12000,2021_12.pdf
+star_air,Star Air,starair,2021,7,2021-22,0.16,16000,2021_12.pdf
+star_air,Star Air,starair,2021,8,2021-22,0.18,18000,2021_12.pdf
+star_air,Star Air,starair,2021,9,2021-22,0.18,18000,2021_12.pdf
+star_air,Star Air,starair,2021,10,2021-22,0.2,20000,2021_12.pdf
+star_air,Star Air,starair,2021,11,2021-22,0.21,21000,2021_12.pdf
+star_air,Star Air,starair,2021,12,2021-22,0.21,21000,2021_12.pdf
+star_air,Star Air,starair,2022,1,2021-22,0.15,15000,2022_12.pdf
+star_air,Star Air,starair,2022,2,2021-22,0.18,18000,2022_12.pdf
+star_air,Star Air,starair,2022,3,2021-22,0.21,21000,2022_12.pdf
+star_air,Star Air,starair,2022,4,2022-23,0.21,21000,2022_12.pdf
+star_air,Star Air,starair,2022,5,2022-23,0.21,21000,2022_12.pdf
+star_air,Star Air,starair,2022,6,2022-23,0.21,21000,2022_12.pdf
+star_air,Star Air,starair,2022,7,2022-23,0.2,20000,2022_12.pdf
+star_air,Star Air,starair,2022,8,2022-23,0.19,19000,2022_12.pdf
+star_air,Star Air,starair,2022,9,2022-23,0.18,18000,2022_12.pdf
+star_air,Star Air,starair,2022,10,2022-23,0.17,17000,2022_12.pdf
+star_air,Star Air,starair,2022,11,2022-23,0.2,20000,2022_12.pdf
+star_air,Star Air,starair,2022,12,2022-23,0.2,20000,2022_12.pdf
+star_air,Star Air,starair,2023,1,2022-23,0.16,16000,2023_12.pdf
+star_air,Star Air,starair,2023,2,2022-23,0.15,15000,2023_12.pdf
+star_air,Star Air,starair,2023,3,2022-23,0.18,18000,2023_12.pdf
+star_air,Star Air,starair,2023,4,2023-24,0.19,19000,2023_12.pdf
+star_air,Star Air,starair,2023,5,2023-24,0.26,26000,2023_12.pdf
+star_air,Star Air,starair,2023,6,2023-24,0.25,25000,2023_12.pdf
+star_air,Star Air,starair,2023,7,2023-24,0.28,28000,2023_12.pdf
+star_air,Star Air,starair,2023,8,2023-24,0.32,32000,2023_12.pdf
+star_air,Star Air,starair,2023,9,2023-24,0.26,26000,2023_12.pdf
+star_air,Star Air,starair,2023,10,2023-24,0.36,36000,2023_12.pdf
+star_air,Star Air,starair,2023,11,2023-24,0.41,41000,2023_12.pdf
+star_air,Star Air,starair,2023,12,2023-24,0.49,49000,2023_12.pdf
+star_air,Star Air,starair,2024,1,2023-24,0.47,47000,2024_12.pdf
+star_air,Star Air,starair,2024,2,2023-24,0.47,47000,2024_12.pdf
+star_air,Star Air,starair,2024,3,2023-24,0.43,43000,2024_12.pdf
+star_air,Star Air,starair,2024,4,2024-25,0.53,53000,2024_12.pdf
+star_air,Star Air,starair,2024,5,2024-25,0.58,58000,2024_12.pdf
+star_air,Star Air,starair,2024,6,2024-25,0.59,59000,2024_12.pdf
+star_air,Star Air,starair,2024,7,2024-25,0.52,52000,2024_12.pdf
+star_air,Star Air,starair,2024,8,2024-25,0.51,51000,2024_12.pdf
+star_air,Star Air,starair,2024,9,2024-25,0.48,48000,2024_12.pdf
+star_air,Star Air,starair,2024,10,2024-25,0.57,57000,2024_12.pdf
+star_air,Star Air,starair,2024,11,2024-25,0.57,57000,2024_12.pdf
+star_air,Star Air,starair,2024,12,2024-25,0.6,60000,2024_12.pdf
+star_air,Star Air,starair,2025,1,2024-25,0.63,63000,2025_12.pdf
+star_air,Star Air,starair,2025,2,2024-25,0.6,60000,2025_12.pdf
+star_air,Star Air,starair,2025,3,2024-25,0.61,61000,2025_12.pdf
+star_air,Star Air,starair,2025,4,2025-26,0.62,62000,2025_12.pdf
+star_air,Star Air,starair,2025,5,2025-26,0.75,75000,2025_12.pdf
+star_air,Star Air,starair,2025,6,2025-26,0.63,63000,2025_12.pdf
+star_air,Star Air,starair,2025,7,2025-26,0.64,64000,2025_12.pdf
+star_air,Star Air,starair,2025,8,2025-26,0.62,62000,2025_12.pdf
+star_air,Star Air,starair,2025,9,2025-26,0.65,65000,2025_12.pdf
+star_air,Star Air,starair,2025,10,2025-26,0.77,77000,2025_12.pdf
+star_air,Star Air,starair,2025,11,2025-26,0.86,86000,2025_12.pdf
+star_air,Star Air,starair,2025,12,2025-26,1.04,104000,2025_12.pdf
+star_air,Star Air,starair,2026,1,2025-26,0.97,97000,2026_08.pdf
+star_air,Star Air,starair,2026,2,2025-26,0.77,77000,2026_08.pdf
+star_air,Star Air,starair,2026,3,2025-26,0.79,79000,2026_08.pdf
+star_air,Star Air,starair,2026,4,2026-27,0.78,78000,2026_08.pdf
+star_air,Star Air,starair,2026,5,2026-27,0.83,83000,2026_08.pdf
+star_air,Star Air,starair,2026,6,2026-27,0.89,89000,2026_08.pdf
+star_air,Star Air,starair,2026,7,2026-27,0.83,83000,2026_08.pdf
+star_air,Star Air,starair,2026,8,2026-27,0.84,84000,2026_08.pdf
+trujet,Trujet,trujet,2015,8,2015-16,0.18,18000,2015_12.pdf
+trujet,Trujet,trujet,2015,9,2015-16,0.19,19000,2015_12.pdf
+trujet,Trujet,trujet,2015,10,2015-16,0.23,23000,2015_12.pdf
+trujet,Trujet,trujet,2015,11,2015-16,0.26,26000,2015_12.pdf
+trujet,Trujet,trujet,2015,12,2015-16,0.28,28000,2015_12.pdf
+trujet,Trujet,trujet,2016,1,2015-16,0.29,29000,2016_12.pdf
+trujet,Trujet,trujet,2016,2,2015-16,0.26,26000,2016_12.pdf
+trujet,Trujet,trujet,2016,3,2015-16,0.28,28000,2016_12.pdf
+trujet,Trujet,trujet,2016,4,2016-17,0.33,33000,2016_12.pdf
+trujet,Trujet,trujet,2016,5,2016-17,0.41,41000,2016_12.pdf
+trujet,Trujet,trujet,2016,6,2016-17,0.35,35000,2016_12.pdf
+trujet,Trujet,trujet,2016,7,2016-17,0.29,29000,2016_12.pdf
+trujet,Trujet,trujet,2016,8,2016-17,0.31,31000,2016_12.pdf
+trujet,Trujet,trujet,2016,9,2016-17,0.33,33000,2016_12.pdf
+trujet,Trujet,trujet,2016,10,2016-17,0.39,39000,2016_12.pdf
+trujet,Trujet,trujet,2016,11,2016-17,0.41,41000,2016_12.pdf
+trujet,Trujet,trujet,2016,12,2016-17,0.31,31000,2016_12.pdf
+trujet,Trujet,trujet,2017,1,2016-17,0.33,33000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,2,2016-17,0.39,39000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,3,2016-17,0.41,41000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,4,2017-18,0.48,48000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,5,2017-18,0.51,51000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,6,2017-18,0.42,42000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,7,2017-18,0.44,44000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,8,2017-18,0.47,47000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,9,2017-18,0.41,41000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,10,2017-18,0.37,37000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,11,2017-18,0.29,29000,2017_12_revised.pdf
+trujet,Trujet,trujet,2017,12,2017-18,0.29,29000,2017_12_revised.pdf
+trujet,Trujet,trujet,2018,1,2017-18,0.33,33000,2018_12.pdf
+trujet,Trujet,trujet,2018,2,2017-18,0.31,31000,2018_12.pdf
+trujet,Trujet,trujet,2018,3,2017-18,0.43,43000,2018_12.pdf
+trujet,Trujet,trujet,2018,4,2018-19,0.53,53000,2018_12.pdf
+trujet,Trujet,trujet,2018,5,2018-19,0.57,57000,2018_12.pdf
+trujet,Trujet,trujet,2018,6,2018-19,0.52,52000,2018_12.pdf
+trujet,Trujet,trujet,2018,7,2018-19,0.51,51000,2018_12.pdf
+trujet,Trujet,trujet,2018,8,2018-19,0.51,51000,2018_12.pdf
+trujet,Trujet,trujet,2018,9,2018-19,0.5,50000,2018_12.pdf
+trujet,Trujet,trujet,2018,10,2018-19,0.56,56000,2018_12.pdf
+trujet,Trujet,trujet,2018,11,2018-19,0.53,53000,2018_12.pdf
+trujet,Trujet,trujet,2018,12,2018-19,0.57,57000,2018_12.pdf
+trujet,Trujet,trujet,2019,1,2018-19,0.58,58000,2019_12.pdf
+trujet,Trujet,trujet,2019,2,2018-19,0.51,51000,2019_12.pdf
+trujet,Trujet,trujet,2019,3,2018-19,0.54,54000,2019_12.pdf
+trujet,Trujet,trujet,2019,4,2019-20,0.57,57000,2019_12.pdf
+trujet,Trujet,trujet,2019,5,2019-20,0.64,64000,2019_12.pdf
+trujet,Trujet,trujet,2019,6,2019-20,0.64,64000,2019_12.pdf
+trujet,Trujet,trujet,2019,7,2019-20,0.68,68000,2019_12.pdf
+trujet,Trujet,trujet,2019,8,2019-20,0.61,61000,2019_12.pdf
+trujet,Trujet,trujet,2019,9,2019-20,0.56,56000,2019_12.pdf
+trujet,Trujet,trujet,2019,10,2019-20,0.64,64000,2019_12.pdf
+trujet,Trujet,trujet,2019,11,2019-20,0.81,81000,2019_12.pdf
+trujet,Trujet,trujet,2019,12,2019-20,0.87,87000,2019_12.pdf
+trujet,Trujet,trujet,2020,1,2019-20,0.87,87000,2020_12.pdf
+trujet,Trujet,trujet,2020,2,2019-20,0.9,90000,2020_12.pdf
+trujet,Trujet,trujet,2020,3,2019-20,0.57,57000,2020_12.pdf
+trujet,Trujet,trujet,2020,5,2020-21,0.02,2000,2020_12.pdf
+trujet,Trujet,trujet,2020,6,2020-21,0.15,15000,2020_12.pdf
+trujet,Trujet,trujet,2020,7,2020-21,0.1,10000,2020_12.pdf
+trujet,Trujet,trujet,2020,8,2020-21,0.07,7000,2020_12.pdf
+trujet,Trujet,trujet,2020,9,2020-21,0.1,10000,2020_12.pdf
+trujet,Trujet,trujet,2020,10,2020-21,0.29,29000,2020_12.pdf
+trujet,Trujet,trujet,2020,11,2020-21,0.28,28000,2020_12.pdf
+trujet,Trujet,trujet,2020,12,2020-21,0.42,42000,2020_12.pdf
+trujet,Trujet,trujet,2021,1,2020-21,0.45,45000,2021_12.pdf
+trujet,Trujet,trujet,2021,2,2020-21,0.48,48000,2021_12.pdf
+trujet,Trujet,trujet,2021,3,2020-21,0.43,43000,2021_12.pdf
+trujet,Trujet,trujet,2021,4,2021-22,0.24,24000,2021_12.pdf
+trujet,Trujet,trujet,2021,5,2021-22,0.12,12000,2021_12.pdf
+trujet,Trujet,trujet,2021,6,2021-22,0.11,11000,2021_12.pdf
+trujet,Trujet,trujet,2021,7,2021-22,0.13,13000,2021_12.pdf
+trujet,Trujet,trujet,2021,8,2021-22,0.27,27000,2021_12.pdf
+trujet,Trujet,trujet,2021,9,2021-22,0.15,15000,2021_12.pdf
+trujet,Trujet,trujet,2021,10,2021-22,0.19,19000,2021_12.pdf
+trujet,Trujet,trujet,2021,11,2021-22,0.11,11000,2021_12.pdf
+trujet,Trujet,trujet,2021,12,2021-22,0.1,10000,2021_12.pdf
+trujet,Tru Jet,trujet,2022,1,2021-22,0.05,5000,2022_12.pdf
+trujet,Tru Jet,trujet,2022,2,2021-22,0.02,2000,2022_12.pdf
+trujet,Tru Jet,trujet,2022,3,2021-22,0.0,0,2022_07.pdf
+trujet,Tru Jet,trujet,2022,4,2022-23,0.0,0,2022_07.pdf
+trujet,Tru Jet,trujet,2022,5,2022-23,0.0,0,2022_07.pdf
+trujet,Tru Jet,trujet,2022,6,2022-23,0.0,0,2022_07.pdf
+trujet,Tru Jet,trujet,2022,7,2022-23,0.0,0,2022_07.pdf
+trujet,Tru Jet,trujet,2022,9,2022-23,0.0,0,2022_12.pdf
+trujet,Tru Jet,trujet,2022,10,2022-23,0.0,0,2022_12.pdf
+trujet,Tru Jet,trujet,2022,11,2022-23,0.0,0,2022_12.pdf
+trujet,Tru Jet,trujet,2022,12,2022-23,0.0,0,2022_12.pdf
+vistara,Vistara,vistara,2015,1,2014-15,0.15,15000,2015_12.pdf
+vistara,Vistara,vistara,2015,2,2014-15,0.33,33000,2015_12.pdf
+vistara,Vistara,vistara,2015,3,2014-15,0.53,53000,2015_12.pdf
+vistara,Vistara,vistara,2015,4,2015-16,0.79,79000,2015_12.pdf
+vistara,Vistara,vistara,2015,5,2015-16,0.93,93000,2015_12.pdf
+vistara,Vistara,vistara,2015,6,2015-16,0.84,84000,2015_12.pdf
+vistara,Vistara,vistara,2015,7,2015-16,0.95,95000,2015_12.pdf
+vistara,Vistara,vistara,2015,8,2015-16,0.99,99000,2015_12.pdf
+vistara,Vistara,vistara,2015,9,2015-16,0.98,98000,2015_12.pdf
+vistara,Vistara,vistara,2015,10,2015-16,1.23,123000,2015_12.pdf
+vistara,Vistara,vistara,2015,11,2015-16,1.36,136000,2015_12.pdf
+vistara,Vistara,vistara,2015,12,2015-16,1.58,158000,2015_12.pdf
+vistara,Vistara,vistara,2016,1,2015-16,1.5,150000,2016_12.pdf
+vistara,Vistara,vistara,2016,2,2015-16,1.49,149000,2016_12.pdf
+vistara,Vistara,vistara,2016,3,2015-16,1.58,158000,2016_12.pdf
+vistara,Vistara,vistara,2016,4,2016-17,1.83,183000,2016_12.pdf
+vistara,Vistara,vistara,2016,5,2016-17,2.21,221000,2016_12.pdf
+vistara,Vistara,vistara,2016,6,2016-17,2.27,227000,2016_12.pdf
+vistara,Vistara,vistara,2016,7,2016-17,2.25,225000,2016_12.pdf
+vistara,Vistara,vistara,2016,8,2016-17,2.05,205000,2016_12.pdf
+vistara,Vistara,vistara,2016,9,2016-17,2.03,203000,2016_12.pdf
+vistara,Vistara,vistara,2016,10,2016-17,2.32,232000,2016_12.pdf
+vistara,Vistara,vistara,2016,11,2016-17,2.6,260000,2016_12.pdf
+vistara,Vistara,vistara,2016,12,2016-17,3.04,304000,2016_12.pdf
+vistara,Vistara,vistara,2017,1,2016-17,3.03,303000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,2,2016-17,2.7,270000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,3,2016-17,2.92,292000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,4,2017-18,2.97,297000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,5,2017-18,3.34,334000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,6,2017-18,3.44,344000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,7,2017-18,3.49,349000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,8,2017-18,3.59,359000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,9,2017-18,3.62,362000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,10,2017-18,3.7,370000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,11,2017-18,3.72,372000,2017_12_revised.pdf
+vistara,Vistara,vistara,2017,12,2017-18,4.13,413000,2017_12_revised.pdf
+vistara,Vistara,vistara,2018,1,2017-18,4.1,410000,2018_12.pdf
+vistara,Vistara,vistara,2018,2,2017-18,3.84,384000,2018_12.pdf
+vistara,Vistara,vistara,2018,3,2017-18,4.42,442000,2018_12.pdf
+vistara,Vistara,vistara,2018,4,2018-19,4.63,463000,2018_12.pdf
+vistara,Vistara,vistara,2018,5,2018-19,4.71,471000,2018_12.pdf
+vistara,Vistara,vistara,2018,6,2018-19,4.52,452000,2018_12.pdf
+vistara,Vistara,vistara,2018,7,2018-19,4.51,451000,2018_12.pdf
+vistara,Vistara,vistara,2018,8,2018-19,4.23,423000,2018_12.pdf
+vistara,Vistara,vistara,2018,9,2018-19,4.36,436000,2018_12.pdf
+vistara,Vistara,vistara,2018,10,2018-19,4.35,435000,2018_12.pdf
+vistara,Vistara,vistara,2018,11,2018-19,4.15,415000,2018_12.pdf
+vistara,Vistara,vistara,2018,12,2018-19,4.78,478000,2018_12.pdf
+vistara,Vistara,vistara,2019,1,2018-19,4.7,470000,2019_12.pdf
+vistara,Vistara,vistara,2019,2,2018-19,4.52,452000,2019_12.pdf
+vistara,Vistara,vistara,2019,3,2018-19,4.9,490000,2019_12.pdf
+vistara,Vistara,vistara,2019,4,2019-20,5.17,517000,2019_12.pdf
+vistara,Vistara,vistara,2019,5,2019-20,5.79,579000,2019_12.pdf
+vistara,Vistara,vistara,2019,6,2019-20,6.48,648000,2019_12.pdf
+vistara,Vistara,vistara,2019,7,2019-20,7.15,715000,2019_12.pdf
+vistara,Vistara,vistara,2019,8,2019-20,6.84,684000,2019_12.pdf
+vistara,Vistara,vistara,2019,9,2019-20,6.64,664000,2019_12.pdf
+vistara,Vistara,vistara,2019,10,2019-20,6.69,669000,2019_12.pdf
+vistara,Vistara,vistara,2019,11,2019-20,7.6,760000,2019_12.pdf
+vistara,Vistara,vistara,2019,12,2019-20,7.92,792000,2019_12.pdf
+vistara,Vistara,vistara,2020,1,2019-20,8.31,831000,2020_12.pdf
+vistara,Vistara,vistara,2020,2,2019-20,8.34,834000,2020_12.pdf
+vistara,Vistara,vistara,2020,3,2019-20,4.57,457000,2020_12.pdf
+vistara,Vistara,vistara,2020,5,2020-21,0.18,18000,2020_12.pdf
+vistara,Vistara,vistara,2020,6,2020-21,1.12,112000,2020_12.pdf
+vistara,Vistara,vistara,2020,7,2020-21,0.88,88000,2020_12.pdf
+vistara,Vistara,vistara,2020,8,2020-21,1.42,142000,2020_12.pdf
+vistara,Vistara,vistara,2020,9,2020-21,2.58,258000,2020_12.pdf
+vistara,Vistara,vistara,2020,10,2020-21,3.39,339000,2020_12.pdf
+vistara,Vistara,vistara,2020,11,2020-21,3.97,397000,2020_12.pdf
+vistara,Vistara,vistara,2020,12,2020-21,4.61,461000,2020_12.pdf
+vistara,Vistara,vistara,2021,1,2020-21,5.14,514000,2021_12.pdf
+vistara,Vistara,vistara,2021,2,2020-21,5.4,540000,2021_12.pdf
+vistara,Vistara,vistara,2021,3,2020-21,5.0,500000,2021_12.pdf
+vistara,Vistara,vistara,2021,4,2021-22,3.11,311000,2021_12.pdf
+vistara,Vistara,vistara,2021,5,2021-22,0.97,97000,2021_12.pdf
+vistara,Vistara,vistara,2021,6,2021-22,2.25,225000,2021_12.pdf
+vistara,Vistara,vistara,2021,7,2021-22,4.07,407000,2021_12.pdf
+vistara,Vistara,vistara,2021,8,2021-22,5.58,558000,2021_12.pdf
+vistara,Vistara,vistara,2021,9,2021-22,6.12,612000,2021_12.pdf
+vistara,Vistara,vistara,2021,10,2021-22,6.96,696000,2021_12.pdf
+vistara,Vistara,vistara,2021,11,2021-22,7.93,793000,2021_12.pdf
+vistara,Vistara,vistara,2021,12,2021-22,8.61,861000,2021_12.pdf
+vistara,Vistara,vistara,2022,1,2021-22,4.79,479000,2022_12.pdf
+vistara,Vistara,vistara,2022,2,2021-22,7.49,749000,2022_12.pdf
+vistara,Vistara,vistara,2022,3,2021-22,9.56,956000,2022_12.pdf
+vistara,Vistara,vistara,2022,4,2022-23,9.04,904000,2022_12.pdf
+vistara,Vistara,vistara,2022,5,2022-23,9.83,983000,2022_12.pdf
+vistara,Vistara,vistara,2022,6,2022-23,9.92,992000,2022_12.pdf
+vistara,Vistara,vistara,2022,7,2022-23,10.13,1013000,2022_12.pdf
+vistara,Vistara,vistara,2022,8,2022-23,9.81,981000,2022_12.pdf
+vistara,Vistara,vistara,2022,9,2022-23,9.96,996000,2022_12.pdf
+vistara,Vistara,vistara,2022,10,2022-23,10.49,1049000,2022_12.pdf
+vistara,Vistara,vistara,2022,11,2022-23,10.87,1087000,2022_12.pdf
+vistara,Vistara,vistara,2022,12,2022-23,11.7,1170000,2022_12.pdf
+vistara,Vistara,vistara,2023,1,2022-23,11.05,1105000,2023_12.pdf
+vistara,Vistara,vistara,2023,2,2022-23,10.53,1053000,2023_12.pdf
+vistara,Vistara,vistara,2023,3,2022-23,11.49,1149000,2023_12.pdf
+vistara,Vistara,vistara,2023,4,2023-24,11.23,1123000,2023_12.pdf
+vistara,Vistara,vistara,2023,5,2023-24,11.95,1195000,2023_12.pdf
+vistara,Vistara,vistara,2023,6,2023-24,10.11,1011000,2023_12.pdf
+vistara,Vistara,vistara,2023,7,2023-24,10.2,1020000,2023_12.pdf
+vistara,Vistara,vistara,2023,8,2023-24,12.17,1217000,2023_12.pdf
+vistara,Vistara,vistara,2023,9,2023-24,12.29,1229000,2023_12.pdf
+vistara,Vistara,vistara,2023,10,2023-24,12.31,1231000,2023_12.pdf
+vistara,Vistara,vistara,2023,11,2023-24,11.97,1197000,2023_12.pdf
+vistara,Vistara,vistara,2023,12,2023-24,13.18,1318000,2023_12.pdf
+vistara,Vistara,vistara,2024,1,2023-24,13.03,1303000,2024_12.pdf
+vistara,Vistara,vistara,2024,2,2023-24,12.55,1255000,2024_12.pdf
+vistara,Vistara,vistara,2024,3,2023-24,12.84,1284000,2024_12.pdf
+vistara,Vistara,vistara,2024,4,2024-25,12.18,1218000,2024_12.pdf
+vistara,Vistara,vistara,2024,5,2024-25,12.71,1271000,2024_12.pdf
+vistara,Vistara,vistara,2024,6,2024-25,12.76,1276000,2024_12.pdf
+vistara,Vistara,vistara,2024,7,2024-25,12.94,1294000,2024_12.pdf
+vistara,Vistara,vistara,2024,8,2024-25,13.54,1354000,2024_12.pdf
+vistara,Vistara,vistara,2024,9,2024-25,13.08,1308000,2024_12.pdf
+vistara,Vistara,vistara,2024,10,2024-25,12.43,1243000,2024_12.pdf
+vistara,Vistara,vistara,2024,11,2024-25,4.15,415000,2024_12.pdf
+zoom_air,Zoom Air,zoomair,2017,2,2016-17,0.01,1000,2017_12_revised.pdf
+zoom_air,Zoom Air,zoomair,2017,3,2016-17,0.02,2000,2017_12_revised.pdf
+zoom_air,Zoom Air,zoomair,2017,4,2017-18,0.03,3000,2017_12_revised.pdf
+zoom_air,Zoom Air,zoomair,2017,5,2017-18,0.03,3000,2017_12_revised.pdf
+zoom_air,Zoom Air,zoomair,2017,6,2017-18,0.02,2000,2017_12_revised.pdf
+zoom_air,Zoom Air,zoomair,2017,7,2017-18,0.01,1000,2017_12_revised.pdf
+zoom_air,Zoom Air,zoomair,2017,9,2017-18,0.01,1000,2017_12_revised.pdf
+zoom_air,Zoom Air,zoomair,2017,10,2017-18,0.03,3000,2017_12_revised.pdf
+zoom_air,Zoom Air,zoomair,2017,11,2017-18,0.04,4000,2017_12_revised.pdf
+zoom_air,Zoom Air,zoomair,2017,12,2017-18,0.04,4000,2017_12_revised.pdf
+zoom_air,Zoom Air,zoomair,2018,1,2017-18,0.03,3000,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,2,2017-18,0.03,3000,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,3,2017-18,0.01,1000,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,4,2018-19,0.02,2000,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,5,2018-19,0.05,5000,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,6,2018-19,0.04,4000,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,7,2018-19,0.0,0,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,8,2018-19,0.0,0,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,9,2018-19,0.0,0,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,10,2018-19,0.0,0,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,11,2018-19,0.0,0,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2018,12,2018-19,0.0,0,2018_12.pdf
+zoom_air,Zoom Air,zoomair,2019,10,2019-20,0.0,0,2019_12.pdf
+zoom_air,Zoom Air,zoomair,2019,11,2019-20,0.0,0,2019_12.pdf
+zoom_air,Zoom Air,zoomair,2019,12,2019-20,0.01,1000,2019_12.pdf
+zoom_air,Zoom Air,zoomair,2020,1,2019-20,0.0,0,2020_12.pdf
+zoom_air,Zoom Air,zoomair,2020,2,2019-20,0.0,0,2020_12.pdf
+zoom_air,Zoom Air,zoomair,2020,3,2019-20,0.0,0,2020_12.pdf
+zoom_air,Zoom Air,zoomair,2020,5,2020-21,0.0,0,2020_12.pdf
+zoom_air,Zoom Air,zoomair,2020,6,2020-21,0.0,0,2020_12.pdf
+zoom_air,Zoom Air,zoomair,2020,7,2020-21,0.0,0,2020_12.pdf
+zoom_air,Zoom Air,zoomair,2020,8,2020-21,0.0,0,2020_12.pdf
+zoom_air,Zoom Air,zoomair,2020,9,2020-21,0.0,0,2020_12.pdf
+zoom_air,Zoom Air,zoomair,2020,10,2020-21,0.0,0,2020_12.pdf
+zoom_air,Zoom Air,zoomair,2020,11,2020-21,0.0,0,2020_12.pdf
+zoom_air,Zoom Air,zoomair,2020,12,2020-21,0.0,0,2020_12.pdf
+zoom_air,Zooom,zooom,2024,2,2023-24,0.0,0,2024_12.pdf
+zoom_air,Zooom,zooom,2024,3,2023-24,0.0,0,2024_12.pdf
+zoom_air,Zooom,zooom,2024,4,2024-25,0.0,0,2024_12.pdf
+zoom_air,Zooom,zooom,2024,5,2024-25,0.0,0,2024_12.pdf
+zoom_air,Zooom,zooom,2024,6,2024-25,0.0,0,2024_12.pdf
+zoom_air,Zooom,zooom,2024,7,2024-25,0.0,0,2024_12.pdf
+zoom_air,Zooom,zooom,2024,8,2024-25,0.0,0,2024_12.pdf
+zoom_air,Zooom,zooom,2024,9,2024-25,0.0,0,2024_12.pdf

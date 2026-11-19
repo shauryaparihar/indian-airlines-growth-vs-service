@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets (database credentials)
+.env
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Monthly report PDFs can be downloaded again with the download script
+data/raw/monthly_traffic/*.pdf
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

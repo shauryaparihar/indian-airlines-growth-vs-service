@@ -1,0 +1,61 @@
+source,source_key,airline,airline_name,recon_group,notes
+yearly,air_india,air_india,Air India,air_india_family,
+yearly,air_india_express,air_india_express,Air India Express,air_india_family,
+yearly,alliance_air,alliance_air,Alliance Air,air_india_family,
+yearly,air_asia,aix_connect,AIX Connect (AirAsia India),air_india_family,Renamed AIX Connect in 2023
+yearly,aix_connect,aix_connect,AIX Connect (AirAsia India),air_india_family,Merged into Air India Express Oct 2024
+yearly,vistara,vistara,Vistara,air_india_family,Merged into Air India Nov 2024
+yearly,indigo,indigo,IndiGo,indigo,
+yearly,spicejet,spicejet,SpiceJet,spicejet,
+yearly,go_air,go_first,Go First (Go Air),go_first,Renamed Go First in 2021; suspended May 2023
+yearly,jet_airways,jet_airways,Jet Airways,jet_group,Suspended April 2019
+yearly,jetlite,jetlite,JetLite,jet_group,
+yearly,akasa_air,akasa_air,Akasa Air,akasa_air,
+yearly,star_air,star_air,Star Air,star_air,
+yearly,fly91,fly91,Fly91,fly91,
+yearly,flybig,flybig,FlyBig,flybig,
+yearly,india_one_air,india_one_air,IndiaOne Air,india_one_air,
+yearly,trujet,trujet,TruJet,trujet,
+yearly,air_costa,air_costa,Air Costa,air_costa,
+yearly,air_pegasus,air_pegasus,Air Pegasus,air_pegasus,
+yearly,air_carnival,air_carnival,Air Carnival,air_carnival,
+yearly,air_deccan,air_deccan,Air Deccan,air_deccan,
+yearly,air_odisha,air_odisha,Air Odisha,air_odisha,
+yearly,air_heritage,air_heritage,Air Heritage,air_heritage,
+yearly,zoom_air,zoom_air,Zoom Air,zoom_air,
+yearly,air_taxi,air_taxi,Air Taxi,air_taxi,
+monthly,airindia,air_india,Air India,air_india_family,Monthly column includes Air India Express; also Alliance Air until it is shown separately (late 2021)
+monthly,airindiagroup,air_india,Air India Group,air_india_family,From 2025 reports: Air India + Air India Express
+monthly,allianceair,alliance_air,Alliance Air,air_india_family,
+monthly,airasia,aix_connect,AIX Connect (AirAsia India),air_india_family,
+monthly,aixconnect,aix_connect,AIX Connect (AirAsia India),air_india_family,
+monthly,vistara,vistara,Vistara,air_india_family,
+monthly,indigo,indigo,IndiGo,indigo,
+monthly,spicejet,spicejet,SpiceJet,spicejet,
+monthly,goair,go_first,Go First (Go Air),go_first,
+monthly,gofirst,go_first,Go First (Go Air),go_first,
+monthly,jetairways,jet_airways,Jet Airways,jet_group,
+monthly,jetlite,jetlite,JetLite,jet_group,
+monthly,akasaair,akasa_air,Akasa Air,akasa_air,
+monthly,starair,star_air,Star Air,star_air,
+monthly,fly91,fly91,Fly91,fly91,
+monthly,flybig,flybig,FlyBig,flybig,
+monthly,indiaoneair,india_one_air,IndiaOne Air,india_one_air,
+monthly,trujet,trujet,TruJet,trujet,
+monthly,turbomegha,trujet,TruJet,trujet,Turbo Megha Airways is TruJet's operating company
+monthly,aircosta,air_costa,Air Costa,air_costa,
+monthly,airpegasus,air_pegasus,Air Pegasus,air_pegasus,
+monthly,aircarnival,air_carnival,Air Carnival,air_carnival,
+monthly,airdeccan,air_deccan,Air Deccan,air_deccan,
+monthly,airodisha,air_odisha,Air Odisha,air_odisha,
+monthly,airheritage,air_heritage,Air Heritage,air_heritage,
+monthly,zoomair,zoom_air,Zoom Air,zoom_air,
+monthly,zoom,zoom_air,Zoom Air,zoom_air,
+monthly,zooom,zoom_air,Zoom Air,zoom_air,Spelled "Zooom" in 2024 reports
+monthly,airtaxi,air_taxi,Air Taxi,air_taxi,
+monthly,pawanhans,pawan_hans,Pawan Hans,pawan_hans,Monthly reports only (regional helicopter/fixed-wing services)
+monthly,airindiadom,air_india,Air India,air_india_family,"Air India (Dom)" in service sections; same perimeter as the passengers column
+monthly,ai,air_india,Air India,air_india_family,"AI" in some cancellation charts
+monthly,costa,air_costa,Air Costa,air_costa,Truncated label in some charts
+monthly,spiceet,spicejet,SpiceJet,spicejet,Typo in a source chart
+monthly,jetairwaysjetlite,jet_group,Jet Airways + JetLite,jet_group,Complaints and OTP report Jet Airways and JetLite as one figure
